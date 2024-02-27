@@ -210,5 +210,14 @@ Scheme
                 "dropshadow"                                        "1"
             }
         }
+        "ConsoleText"
+        {
+            "1"
+            {
+                "name"                                              "Verdana"
+                "tall"                                              "14"
+                "weight"                                            "500"
+            }
+        }
     }
 }
