@@ -27,13 +27,6 @@
             "tall"                                                  "20"
             "bgcolor_override"                                      "bh_gray_t"
             "proportionalToParent"                                  "1"
-
-            if_match
-            {
-                "ypos"                                              "11"
-                "tall"                                              "16"
-                "bgcolor_override"                                  "bh_gray_t"
-            }
         }
     }
 
@@ -129,36 +122,6 @@
             "ypos"                                                  "r-6969"
             "visible"                                               "0"
             "enabled"                                               "0"
-        }
-    }
-
-    "bh_MatchTeamBG_Gray"
-    {
-        "ControlName"                                               "ImagePanel"
-        "fieldName"                                                 "bh_MatchTeamBG_Gray"
-        "xpos"                                                      "c-40"
-        "ypos"                                                      "0"
-        "zpos"                                                      "0"
-        "wide"                                                      "80"
-        "tall"                                                      "11"
-        "autoResize"                                                "0"
-        "pinCorner"                                                 "0"
-        "labeltext"                                                 ""
-        "visible"                                                   "0"
-        "enabled"                                                   "1"
-        "fillcolor"                                                 "125 125 125 064"
-        "image"                                                     ""
-        "paintbackgroundtype"                                       "0"
-
-        if_match
-        {
-            "visible"                                               "1"
-        }
-
-        if_mvm
-        {
-            "ypos"                                                  "r-6969"
-            "visible"                                               "0"
         }
     }
 
