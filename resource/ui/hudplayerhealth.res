@@ -1,8 +1,3 @@
-    #base    "../../#customization/_enabled/bh_player_largehealth.res"
     #base    "../../#customization/_enabled/bh_player_healthcross_inset.res"
-    #base    "../../#customization/_enabled/bh_player_healthcross.res"
-    #base    "../../#customization/_enabled/bh_player_m0re_healthcross_inset.res"
-    #base    "../../#customization/_enabled/bh_player_m0re_healthcross.res"
-    #base    "../../#customization/_enabled/bh_player_healthbox.res"
     #base    "../../_budhud/resource/ui/hudplayerhealth.res"
     #base    "../../_tf2hud/resource/ui/hudplayerhealth.res"
