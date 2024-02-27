@@ -407,7 +407,7 @@
 
     "HudHintDisplay"
     {
-        "ypos"                                                      "c100"
+        "ypos"                                                      "c135"
         "zpos"                                                      "5"
         "wide"                                                      "480"
         "tall"                                                      "100"
