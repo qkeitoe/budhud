@@ -1,0 +1,7 @@
+{
+    "editor.detectIndentation": false,
+    "files.insertFinalNewline": false,
+    "[vdf]": {
+        "editor.insertSpaces": true
+    }
+}
