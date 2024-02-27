@@ -3,7 +3,7 @@
     "ChargeMeter"
     {
         "xpos"                                                      "c-50"
-        "ypos"                                                      "c108"
+        "ypos"                                                      "c134"
         "zpos"                                                      "2"
         "wide"                                                      "100"
         "tall"                                                      "6"
