@@ -1171,8 +1171,8 @@ Scheme
 			{
 				"name"		"Lato Semibold" [!$_disabled_]
 				"name"		"Lato Semibold" [$_disabled_]
-				"tall"		"18"
-				"weight"	"900"
+				"tall"		"21"
+				"weight"	"700"
 				"antialias" "1"
 				"additive"	"1"
 			}
