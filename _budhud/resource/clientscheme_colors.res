@@ -373,7 +373,7 @@ Scheme
 
         // Vote menu (center left)
         // CHudMenu
-        "ItemColor"                                                 "255 255 255 255"
+        "ItemColor"                                                 "255 167 042 200"
         "MenuColor"                                                 "255 255 255 255"
         "MenuBoxBg"                                                 "000 000 000 100"
 
