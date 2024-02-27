@@ -197,7 +197,7 @@ Scheme
             {
                 "name"                                              "Lucida Console"
                 "tall"                                              "14"
-                "weight"                                            "500"
+                "weight"                                            "700"
                 "yres"                                              "1024 1199"
                 "dropshadow"                                        "1"
             }
