@@ -1,3 +1,2 @@
     #base   "../#customization/_enabled/bh_menu_defaultbackground/chapterbackgrounds.txt"
     #base   "../_budhud/scripts/chapterbackgrounds.txt"
-    #base   "../_tf2hud/scripts/chapterbackgrounds.txt"
