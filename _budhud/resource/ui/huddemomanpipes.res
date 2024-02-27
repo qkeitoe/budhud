@@ -9,9 +9,15 @@
 
     "ChargeLabel"
     {
-        "ypos"                                                      "r-6969"
-        "visible"                                                   "0"
+        "xpos"                                                      "c-50"
+        "ypos"                                                      "c124"
+        "zpos"                                                      "3"
+        "wide"                                                      "100"
+        "tall"                                                      "6"
         "enabled"                                                   "0"
+        "textAlignment"                                             "center"
+        "font"                                                      "bh_Font7"
+        "disabledfgcolor2_override"                                 "bh_metertext"
     }
 
     "ChargeMeter"
