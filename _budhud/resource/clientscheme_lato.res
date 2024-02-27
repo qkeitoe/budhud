@@ -166,6 +166,19 @@ Scheme
             }
         }
 
+        bh_Font7
+        {
+            "1"
+            {
+                "name"                                              "Lato Semibold"
+                "tall"                                              "7"
+                "weight"                                            "500"
+                "antialias"                                         "1"
+                "dropshadow"                                        "0"
+                "outline"                                           "0"
+            }
+        }
+
         bh_Font8
         {
             "1"
