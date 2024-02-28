@@ -48,8 +48,9 @@
 
     "StatData"
     {
-        "ypos"                                                      "-50"
-        "zpos"                                                      "11"
+        "ypos"                                                      "r-6969"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
 
         "AveragesBG"
         {
