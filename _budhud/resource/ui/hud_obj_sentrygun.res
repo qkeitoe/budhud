@@ -45,12 +45,16 @@
 
     "BuiltPanel"
     {
+        "Health"
+        {
+            "ypos"                                                  "3"
+            "tall"                                                  "57"
+        }
+
         "AlertTray"
         {
-            "xpos"                                                  "22"
-            "ypos"                                                  "50"
-            "wide"                                                  "35"
-            "tall"                                                  "1"
+            "ypos"                                                  "3"
+            "tall"                                                  "56"
         }
     }
 }
