@@ -70,7 +70,7 @@
 
     "HudSpectatorExtras"
     {
-        "player_name_font"                                          "bh_Font10DropShadow"
+        "player_name_font"                                          "bh_Font10"
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
