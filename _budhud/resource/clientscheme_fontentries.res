@@ -181,29 +181,5 @@ Scheme
                 "range"     "0x021 0xFFFF"
             }
         }
-
-        "10" // Unified TF2 Crosshairs
-        {
-            "font"          "resource/fonts/crosshairs-unified.ttf"
-            "name"          "TF2Crosshairs"
-        }
-
-        "11" // whayay's Crosshairs
-        {
-            "font"          "resource/fonts/crosshairs-whayay.ttf"
-            "name"          "Crosshair"
-        }
-
-        "12" // Knuckles' Crosshairs
-        {
-            "font"          "resource/fonts/crosshairs-knuckles.ttf"
-            "name"          "KnucklesCrosses"
-        }
-
-        "13" // Fog's Crosshairs
-        {
-            "font"          "resource/fonts/crosshairs-fog.ttf"
-            "name"          "Crosshairs Regular"
-        }
     }
 }
