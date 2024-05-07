@@ -22,12 +22,8 @@
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // #users Customization
     ////////////////////////////////////////////////////////////////////////////////////////////////////
-    #base   "../#users/dane/resource/clientscheme_colors.res"
-    #base   "../#users/ly_dee/resource/clientscheme_colors.res"
-    #base   "../#users/truktruk/resource/clientscheme_colors.res"
     #base   "../#users/jayhyunpae/#customization/_enabled/bh_crosshairs_tf2crosshairs.res"
     #base   "../#users/jayhyunpae/resource/clientscheme_colors.res"
-    #base   "../#users/zenith/resource/clientscheme_zenith.res"
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // budhud - Crosshairs

@@ -1,5 +1,4 @@
     #base    "../../#users/custom/resource/ui/hudmediccharge.res"
-    #base    "../../#users/ly_dee/resource/ui/hudmediccharge.res"
     #base    "../../#users/jayhyunpae/resource/ui/hudmediccharge.res"
     #base    "../../#customization/_enabled/bh_uber_longchargemeter.res"
     #base    "../../#customization/_enabled/bh_uber_percentagenearcrosshair.res"
