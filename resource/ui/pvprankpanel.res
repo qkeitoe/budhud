@@ -2,6 +2,5 @@
     #base    "../../#users/ly_dee/#customization/_enabled/bh_menu_hidestats.res"
     #base    "../../#users/jayhyunpae/#customization/_enabled/bh_menu_hidestats.res"
     #base    "../../#customization/_enabled/bh_menu_hidestats.res"
-    #base    "../../_stream/resource/ui/pvprankpanel.res"
     #base    "../../_budhud/resource/ui/pvprankpanel.res"
     #base    "../../_tf2hud/resource/ui/pvprankpanel.res"
