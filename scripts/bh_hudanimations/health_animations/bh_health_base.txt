@@ -6,6 +6,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 event HudHealthBonusPulse
 {
+    StopEvent            LingeringHealthFix                       0.0
     Animate              PlayerStatusHealthBonusImage             alpha              255                         Linear            0              0.2
     Animate              PlayerStatusHealthBonusImage             alpha              0                           Linear            0.2            0.4
     Animate              PlayerStatusHealthValue                  fgcolor            bh_isError                  Linear            0              0.2
@@ -36,6 +37,7 @@ event HudHealthBonusPulseStop
 ////////////////////////////////////////////////////////////////////////////////////////////////
 event HudHealthDyingPulse
 {
+    StopEvent            LingeringHealthFix                       0.0
     Animate              PlayerStatusHealthBonusImage             alpha              255                         Linear            0              0.2
     Animate              PlayerStatusHealthBonusImage             alpha              0                           Linear            0.2            0.4
     Animate              PlayerStatusHealthValue                  fgcolor            bh_isError                  Linear            0              0.2
@@ -58,4 +60,11 @@ event HudHealthDyingPulseStop
     Animate              PlayerStatusHealthValue                  fgcolor            bh_isError                  Linear            0              0
     Animate              PlayerStatusHealthValueShadow            fgcolor            bh_isError                  Linear            0              0
     Animate              bh_HealthBGSpec                          bgcolor            bh_TargetID_Base            Linear            0              0
+}
+
+event LingeringHealthFix
+{
+    Animate              PlayerStatusHealthBonusImage             alpha              255                         Linear            0.5            0.2
+    Animate              PlayerStatusHealthValue                  fgcolor            bh_isError                  Linear            0.5            0.2
+    Animate              PlayerStatusHealthValueShadow            fgcolor            bh_isError                  Linear            0.5            0.2
 }

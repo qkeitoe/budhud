@@ -309,3 +309,25 @@ event NotificationsPresentBlinkStop
     StopEvent        NotificationsPresentBlinkLoop        0.0
     Animate          NotificationsPresentPanel            alpha        255        Linear        0.0        0.0
 }
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// Reliable way to fix lingering hud animations
+////////////////////////////////////////////////////////////////////////////////////////////////////
+event MenuOpen
+{
+    RunEventChild        HudWeaponAmmo          LingeringAmmoFix          0.0
+    RunEventChild        HudPlayerHealth        LingeringHealthFix        0.0
+
+    StopEvent            MenuClose              0.0
+
+    // fade in
+    Animate              HudMenu                alpha                     255              Linear        0.0        0.1
+    Animate              HudMenu                selectionalpha            255              Linear        0.0        0.1
+    Animate              HudMenu                fgcolor                   FgColor          Linear        0.0        0.1
+    Animate              HudMenu                menucolor                 MenuColor        Linear        0.0        0.1
+    Animate              HudMenu                itemcolor                 ItemColor        Linear        0.0        0.1
+    Animate              HudMenu                textscan                  1                Linear        0.0        0.1
+
+    // Undo any blur
+    Animate              HudMenu                blur                      1                Linear        0.0        0.01
+}

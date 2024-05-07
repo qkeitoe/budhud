@@ -5,6 +5,8 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 event HudLowAmmoPulse
 {
+    StopEvent            LingeringAmmoFix               0.0
+
     // Main ammo
     Animate              AmmoInClip                     fgcolor            bh_Ammo_Main                      Linear            0              0.2
     Animate              AmmoNoClip                     fgcolor            bh_Ammo_Main                      Linear            0              0.2
@@ -60,4 +62,24 @@ event HudLowAmmoPulseStop
     // Reserve ammo shadow
     Animate              AmmoInReserveShadow            alpha              255                               Linear            0              0.2
     Animate              AmmoInReserveShadow            fgcolor            bh_Ammo_Reserve_Shadow            Linear            0              0.2
+}
+
+event HudLowAmmoPulseStop
+{
+    // Main ammo
+    Animate              AmmoInClip                     fgcolor            bh_Ammo_Main                      Linear            0.5            0.2
+    Animate              AmmoNoClip                     fgcolor            bh_Ammo_Main                      Linear            0.5            0.2
+
+    // Reserve ammo
+    Animate              AmmoInReserve                  fgcolor            bh_Ammo_Reserve                   Linear            0.5            0.2
+
+    // Main ammo shadow
+    Animate              AmmoInClipShadow               alpha              255                               Linear            0.5            0.2
+    Animate              AmmoInClipShadow               fgcolor            bh_Ammo_Main_Shadow               Linear            0.5            0.2
+    Animate              AmmoNoClipShadow               alpha              255                               Linear            0.5            0.2
+    Animate              AmmoNoClipShadow               fgcolor            bh_Ammo_Main_Shadow               Linear            0.5            0.2
+
+    // Reserve ammo shadow
+    Animate              AmmoInReserveShadow            alpha              255                               Linear            0.5            0.2
+    Animate              AmmoInReserveShadow            fgcolor            bh_Ammo_Reserve_Shadow            Linear            0.5            0.2
 }
