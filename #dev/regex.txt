@@ -1,2 +1,3 @@
 ^\s*#base\s*"(../)*_stream.*$\n
 ^\s*#base\s*"(../)*#users/(dane|ly_dee|truktruk|whisker|zenith).*$\n
+^\s*#base\s*"(../)*#users/(jayhyunpae).*$\n

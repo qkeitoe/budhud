@@ -1,6 +1,4 @@
     #base    "../../#users/custom/resource/ui/hudplayerclass.res"
-    #base    "../../#users/jayhyunpae/#customization/_enabled/bh_crosshairs.res"
-    #base    "../../#users/jayhyunpae/#customization/_enabled/bh_player_hideclassmodel.res"
     #base    "../../#customization/_enabled/bh_player_hideclassmodel.res"
     #base    "../../#customization/_enabled/bh_player_teamindicator.res"
     #base    "../../#customization/_enabled/bh_crosshairs.res"
