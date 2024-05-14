@@ -34,5 +34,17 @@ Scheme
                 "outline"                                           "0"
             }
         }
+        bh_Font10_Verdana
+        {
+            "1"
+            {
+                "name"                                              "Verdana"
+                "tall"                                              "10"
+                "weight"                                            "500"
+                "antialias"                                         "1"
+                "dropshadow"                                        "0"
+                "outline"                                           "0"
+            }
+        }
     }
 }

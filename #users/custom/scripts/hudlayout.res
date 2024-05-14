@@ -38,6 +38,6 @@
 
     "HudSpectatorExtras"
     {
-        "player_name_font"                                          "bh_Font10"
+        "player_name_font"                                          "bh_Font10_Verdana"
     }
 }
