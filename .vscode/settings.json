@@ -3,5 +3,13 @@
     "files.insertFinalNewline": false,
     "[vdf]": {
         "editor.insertSpaces": true
-    }
+    },
+    "files.associations": {
+        "bh_ammo_*.txt": "hudanimations",
+        "bh_health_*.txt": "hudanimations",
+        "bh_medic_*.txt": "hudanimations"
+    },
+    "editor.rulers": [
+        68
+    ]
 }
