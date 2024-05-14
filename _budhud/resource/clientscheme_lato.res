@@ -913,7 +913,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -921,7 +921,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$_disabled_]
 				"weight"	"900"
@@ -930,7 +930,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -939,7 +939,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -948,7 +948,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -957,14 +957,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -976,7 +976,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"500"
 				"underline" "1"
@@ -984,7 +984,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -994,7 +994,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -1002,7 +1002,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -1010,7 +1010,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -1019,7 +1019,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -1028,7 +1028,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -1037,7 +1037,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -1049,7 +1049,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1057,7 +1057,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1065,7 +1065,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1074,7 +1074,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1083,7 +1083,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1095,7 +1095,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1103,7 +1103,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"21"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1111,7 +1111,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1120,7 +1120,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"28"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1129,7 +1129,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1138,14 +1138,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -1156,8 +1156,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Lato Semibold" [!$_disabled_]
-				"name"		"Lato Semibold" [$_disabled_]
+				"name"		"Verdana" [!$_disabled_]
+				"name"		"Verdana" [$_disabled_]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -1169,7 +1169,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -1180,14 +1180,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$_disabled_]
 				"weight"	"700"
@@ -1195,21 +1195,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1219,7 +1219,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"	"80"
 				"weight"	"500"
@@ -1229,7 +1229,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"32"
 				"tall$_disabled_"	"120"
 				"weight"	"500"
@@ -1239,7 +1239,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -1248,7 +1248,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -1257,7 +1257,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -1269,7 +1269,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"44"
 				"tall$_disabled_"	"52"
 				"weight"	"500"
@@ -1282,7 +1282,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"35"
 				"tall$_disabled_"	"40"
 				"weight"	"500"
@@ -1295,7 +1295,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"36"
 				"tall$_disabled_"	"48"
 				"weight"	"500"
@@ -1307,7 +1307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1318,7 +1318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1329,7 +1329,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"		"28"
 				"weight"	"500"
@@ -1341,7 +1341,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1352,7 +1352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1363,7 +1363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1374,7 +1374,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"18"
@@ -1387,7 +1387,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"20"
@@ -1400,7 +1400,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"tall$_disabled_"	"16"
 				"weight"	"500"
@@ -1412,7 +1412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1423,7 +1423,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1434,7 +1434,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1446,7 +1446,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1457,7 +1457,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1469,7 +1469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1480,7 +1480,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1491,7 +1491,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1502,7 +1502,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1513,7 +1513,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1524,7 +1524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1535,7 +1535,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1546,7 +1546,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"tall$_disabled_"	"14"
 				"tall$_disabled_"	"16"
@@ -1559,7 +1559,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1634,7 +1634,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"18"
@@ -1647,7 +1647,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"tall$_disabled_"	"22"
 				"tall$_disabled_"	"22"
@@ -1660,7 +1660,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1671,7 +1671,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1682,7 +1682,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"tall$_disabled_"	"9"
 				"tall$_disabled_"	"10"
@@ -1695,7 +1695,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"tall$_disabled_"	"7"
 				"weight"	"500"
@@ -1707,7 +1707,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1717,7 +1717,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$_disabled_]
 				"weight"	"700"
@@ -1728,7 +1728,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1737,7 +1737,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1746,7 +1746,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1758,7 +1758,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -1766,7 +1766,7 @@ Scheme
 			}
 			"1"	[$_disabled_]
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"200"
 				"outline"	"1"
@@ -1799,7 +1799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"90"
 				"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1820,7 +1820,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Lato Semibold"
+				"name"  "Verdana"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1831,7 +1831,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"	"32"
 				"weight"	"500"
@@ -1842,7 +1842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"	"32"
 				"weight"	"500"
@@ -1854,7 +1854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"	"32"
 				"weight"	"900"
@@ -1865,7 +1865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"	"32"
 				"weight"	"900"
@@ -1877,7 +1877,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"tall$_disabled_"	"24"
 				"weight"	"900"
@@ -1912,7 +1912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1922,7 +1922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"tall$_disabled_"	"14"
 				"antialias" "1"
@@ -1933,7 +1933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1944,7 +1944,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"tall$_disabled_"	"14"
 				"tall$_disabled_"	"17"
@@ -1958,7 +1958,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Lato Semibold"
+				"name"			"Verdana"
 				"tall"			"28"
 				"tall$_disabled_"	"48"
 				"tall$_disabled_"	"48"
@@ -1973,7 +1973,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Lato Semibold"
+				"name"			"Verdana"
 				"tall"			"40"
 				"tall$_disabled_"	"48"
 				"tall$_disabled_"	"48"
@@ -1988,7 +1988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"tall$_disabled_"	"36"
 				"tall$_disabled_"	"36"
@@ -2001,7 +2001,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Lato Semibold"
+				"name"			"Verdana"
 				"tall"			"14" [!$_disabled_]
 				"tall"			"15" [$_disabled_]
 				"tall$_disabled_"	"32"
@@ -2015,7 +2015,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -2026,7 +2026,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"tall$_disabled_"	"10"
 				"tall$_disabled_"	"14"
@@ -2039,7 +2039,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"tall$_disabled_"	"12"
 				"tall$_disabled_"	"14"
@@ -2052,7 +2052,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2064,7 +2064,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2076,7 +2076,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"24"
@@ -2090,7 +2090,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2102,7 +2102,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2114,7 +2114,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"34"
 				"tall$_disabled_"	"38"
 				"tall$_disabled_"	"38"
@@ -2129,7 +2129,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"36"
 				"tall$_disabled_"	"48"
 				"weight"	"500"
@@ -2141,7 +2141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"52"
 				"tall$_disabled_"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -2151,7 +2151,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"72"
 				"tall$_disabled_"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -2161,7 +2161,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2170,7 +2170,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2179,7 +2179,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2191,7 +2191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2203,7 +2203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2214,7 +2214,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -2225,7 +2225,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2236,7 +2236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2247,7 +2247,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2259,7 +2259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"tall$_disabled_"	"12"
 				"tall$_disabled_"	"14"
@@ -2273,7 +2273,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2281,7 +2281,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -2289,7 +2289,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -2297,7 +2297,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -2305,7 +2305,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2316,7 +2316,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2324,7 +2324,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -2332,7 +2332,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -2340,7 +2340,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -2348,7 +2348,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2359,7 +2359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2367,7 +2367,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -2375,7 +2375,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -2383,7 +2383,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -2391,7 +2391,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2403,7 +2403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Lato Semibold"
+				"name"			"Verdana"
 				"tall"			"8"
 				"tall$_disabled_"	"12"
 				"range" 		"0x0000 0x00FF"
@@ -2416,7 +2416,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"tall$_disabled_"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -2429,7 +2429,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2441,7 +2441,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2454,7 +2454,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"tall$_disabled_"	"10"
 				"tall$_disabled_"	"12"
@@ -2467,7 +2467,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"tall$_disabled_"	"10"
 				"tall$_disabled_"	"16"
@@ -2481,7 +2481,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"  [!$_disabled_]
 				"tall"		"9"  [$_disabled_]
 				"weight"	"800"
@@ -2494,7 +2494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"36"
 				"tall$_disabled_"		"28"
 				"weight"	"500"
@@ -2504,7 +2504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"30"
 				"tall$_disabled_"		"22"
 				"weight"	"500"
@@ -2514,7 +2514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"28"
 				"tall$_disabled_"	"24"
 				"weight"	"500"
@@ -2524,7 +2524,7 @@ Scheme
 		{
 			"1"			// brower item hostname
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"900"
 			}
@@ -2533,7 +2533,7 @@ Scheme
 		{
 			"1"			// browser item players and map name
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
 			}
@@ -2542,7 +2542,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -2551,7 +2551,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -2560,7 +2560,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"tall$_disabled_"		"18"
 				"weight"	"900"
@@ -2570,7 +2570,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"tall$_disabled_"		"18"
 				"weight"	"900"
@@ -2580,7 +2580,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"900"
 			}
@@ -2590,7 +2590,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -2601,7 +2601,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -2612,7 +2612,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2623,7 +2623,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
@@ -2633,7 +2633,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"600"
 				"additive"	"0"
@@ -2644,7 +2644,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -2655,7 +2655,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2667,7 +2667,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2676,7 +2676,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2685,7 +2685,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2698,7 +2698,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2709,7 +2709,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2720,7 +2720,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2731,7 +2731,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2742,7 +2742,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2753,7 +2753,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2763,7 +2763,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2774,7 +2774,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2785,7 +2785,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2797,7 +2797,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2808,7 +2808,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -2820,7 +2820,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2831,7 +2831,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2842,7 +2842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2852,7 +2852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -2864,7 +2864,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2875,8 +2875,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2885,8 +2885,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2895,8 +2895,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2909,8 +2909,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -2919,8 +2919,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -2929,8 +2929,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -2943,8 +2943,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -2956,7 +2956,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"antialias" "1"
 				"custom"		"1" [$_disabled_]
@@ -2968,7 +2968,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2977,7 +2977,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2986,7 +2986,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2999,7 +2999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -3009,7 +3009,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3019,7 +3019,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -3033,7 +3033,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -3042,7 +3042,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -3051,7 +3051,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -3064,7 +3064,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -3076,7 +3076,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -3088,7 +3088,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3100,7 +3100,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -3111,7 +3111,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -3122,7 +3122,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"400"
 				"antialias" "1"
@@ -3134,7 +3134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"400"
 				"antialias" "1"
@@ -3150,7 +3150,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3158,7 +3158,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3166,7 +3166,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3175,7 +3175,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3184,7 +3184,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3196,7 +3196,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3207,7 +3207,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3215,7 +3215,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3223,7 +3223,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3232,7 +3232,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3241,7 +3241,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3250,7 +3250,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -3260,7 +3260,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3271,7 +3271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3282,7 +3282,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"18"
@@ -3295,7 +3295,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3306,7 +3306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"tall$_disabled_"	"24"
 				"tall$_disabled_"	"20"
@@ -3323,7 +3323,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3334,7 +3334,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3346,7 +3346,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3359,7 +3359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -3371,7 +3371,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias" 	"1"
@@ -3382,7 +3382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"500"
 				"blur"		"3"
@@ -3395,7 +3395,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -3408,8 +3408,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -3422,8 +3422,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -3435,8 +3435,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3448,8 +3448,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3461,8 +3461,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold" [$WINDOWS]
-				"name"		"Lato Semibold"
+				"name"		"Verdana" [$WINDOWS]
+				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"400"
 				"additive"	"0"
