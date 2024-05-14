@@ -35,4 +35,9 @@
     {
         "ypos"                                                      "c125"
     }
+
+    "HudSpectatorExtras"
+    {
+        "player_name_font"                                          "bh_Font10"
+    }
 }
