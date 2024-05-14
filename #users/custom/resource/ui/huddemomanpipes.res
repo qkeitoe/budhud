@@ -2,14 +2,19 @@
 {
     "ChargeMeter"
     {
-        "ypos"                                                      "c90"
+        "ypos"                                                      "c93"
     }
 
     "PipesPresentPanel"
     {
         "NumPipesLabel"
         {
-            "ypos"                                                  "c90"
+            "ypos"                                                  "c63"
+            "font"                                                  "bh_Font16"
+        }
+        "NumPipesLabelDropShadow"
+        {
+            "font"                                                  "bh_Font16"
         }
     }
 
@@ -17,7 +22,12 @@
     {
         "NumPipesLabel"
         {
-            "ypos"                                                  "c90"
+            "ypos"                                                  "c63"
+            "font"                                                  "bh_Font16"
+        }
+        "NumPipesLabelDropShadow"
+        {
+            "font"                                                  "bh_Font16"
         }
     }
 }
