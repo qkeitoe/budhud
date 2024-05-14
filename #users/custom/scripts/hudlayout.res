@@ -30,4 +30,9 @@
     {
         "pin_to_sibling"                                            "bh_BuildNav"
     }
+
+    "HudHintDisplay"
+    {
+        "ypos"                                                      "c125"
+    }
 }
