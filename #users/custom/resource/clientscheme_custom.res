@@ -5,6 +5,11 @@ Scheme
         "bh_metertext"                                              "50 52 57 255"
     }
 
+    BaseSettings
+    {
+        "ItemColor"                                                 "255 167 042 255"
+    }
+
     Fonts
     {
         bh_Font7
