@@ -297,30 +297,12 @@
         "y_offset"                                                  "100"
     }
 
-    "bh_BuildPin"
-    {
-        "ControlName"                                               "Label"
-        "fieldName"                                                 "bh_BuildPin"
-        "xpos"                                                      "0"
-        "ypos"                                                      "105"
-        "zpos"                                                      "0"
-        "wide"                                                      "100"
-        "tall"                                                      "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "bgcolor_override"                                          "0 0 0 0"
-    }
-
     "BuildingStatus_Engineer"
     {
         "xpos"                                                      "0"
-        "ypos"                                                      "0"
+        "ypos"                                                      "105"
         "wide"                                                      "f0"
         "tall"                                                      "f0"
-
-        "pin_to_sibling"                                            "bh_BuildPin"
-        "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-        "pin_to_sibling_corner"                                     "0"
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
