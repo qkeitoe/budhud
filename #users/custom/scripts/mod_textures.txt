@@ -1,0 +1,14 @@
+"sprites/640_hud"
+{
+    TextureData
+    {
+        "obj_status_area_alrt"
+        {
+            "file"                                                  "vgui/replay/thumbnails/building_icons/obj_status_area_alrt"
+            "x"                                                     "0"
+            "y"                                                     "0"
+            "width"                                                 "62"
+            "height"                                                "110"
+        }
+    }
+}
