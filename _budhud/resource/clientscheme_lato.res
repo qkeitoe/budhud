@@ -1156,7 +1156,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Verdana" [!$_disabled_]
+				"name"		"Trebuchet MS" [!$_disabled_]
 				"name"		"Verdana" [$_disabled_]
 				"tall"		"18"
 				"weight"	"900"
