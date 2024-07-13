@@ -14,18 +14,6 @@
     // #users/custom
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     #base   "../#users/custom/resource/clientscheme_custom.res"
-    #base   "../#users/custom/#customization/_enabled/bh_crosshairs_tf2crosshairs.res"
-    #base   "../#users/custom/#customization/_enabled/bh_crosshairs_fog.res"
-    #base   "../#users/custom/#customization/_enabled/bh_crosshairs_knuckles.res"
-    #base   "../#users/custom/#customization/_enabled/bh_crosshairs_whayay.res"
-
-    ////////////////////////////////////////////////////////////////////////////////////////////////////
-    // budhud - Crosshairs
-    ////////////////////////////////////////////////////////////////////////////////////////////////////
-    #base   "../#customization/_enabled/bh_crosshairs_tf2crosshairs.res"
-    #base   "../#customization/_enabled/bh_crosshairs_fog.res"
-    #base   "../#customization/_enabled/bh_crosshairs_knuckles.res"
-    #base   "../#customization/_enabled/bh_crosshairs_whayay.res"
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // budhud - Fonts

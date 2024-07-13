@@ -18,40 +18,6 @@ Scheme
     {
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Crosshair Colors
-    // ============================================================================================== //
-    // These crosshair colors are kept separated just in case you use multiple crosshairs and want to
-    // have different colors for each. Most will only use `hud_crosshair_1`
-    ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-        /////////////////////////
-        // Unified HUD Crosshairs
-        /////////////////////////
-
-        "hud_crosshair_1"                                           "255 255 255 255"   // Crosshair color
-        "hud_crosshair_1_flash"                                     "240 134 049 255"   // Flash on damage done
-
-        "hud_crosshair_2"                                           "255 255 255 255"   // Crosshair color
-        "hud_crosshair_2_flash"                                     "240 134 049 255"   // Flash on damage done
-
-        "hud_crosshair_3"                                           "255 255 255 255"   // Crosshair color
-        "hud_crosshair_3_flash"                                     "240 134 049 255"   // Flash on damage done
-
-        ////////////////////
-        // Legacy Crosshairs
-        ////////////////////
-
-        "hud_crosshair_whayay"                                      "255 255 255 255"   // Crosshair color
-        "hud_crosshair_whayay_flash"                                "240 134 049 255"   // Flash on damage done
-
-        "hud_crosshair_knuckles"                                    "255 255 255 255"   // Crosshair color
-        "hud_crosshair_knuckles_flash"                              "240 134 049 255"   // Flash on damage done
-
-        "hud_crosshair_fog"                                         "255 255 255 255"   // Crosshair color
-        "hud_crosshair_fog_flash"                                   "240 134 049 255"   // Flash on damage done
-
-
-    ////////////////////////////////////////////////////////////////////////////////////////////////////
     // Health
     // ============================================================================================== //
     // Health animations are controlled in `/budhud/scripts/hudanimations_manifest.txt`
