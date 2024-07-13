@@ -1,0 +1,34 @@
+event HudMedicCharged
+{
+    // Uber Percentage
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow1            Linear            0.2            0.2
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow2            Linear            0.4            0.2
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow3            Linear            0.6            0.2
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow4            Linear            0.8            0.2
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow5            Linear            1              0.2
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow6            Linear            1.2            0.2
+    Animate             ChargeLabel                    fgcolor            bh_UberMeter_Rainbow7            Linear            1.4            0.2
+    // Uber Meter
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow1            Linear            0.2            0.2
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow2            Linear            0.4            0.2
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow3            Linear            0.6            0.2
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow4            Linear            0.8            0.2
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow5            Linear            1              0.2
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow6            Linear            1.2            0.2
+    Animate             ChargeMeter                    fgcolor            bh_UberMeter_Rainbow7            Linear            1.4            0.2
+
+    RunEvent            HudMedicChargedLoop            1.6
+}
+
+event HudMedicChargedLoop
+{
+    RunEvent            HudMedicCharged            0
+}
+
+event HudMedicChargedStop
+{
+    StopEvent            HudMedicCharged                0
+    StopEvent            HudMedicChargedLoop            0
+    Animate              ChargeLabel                    fgcolor            bh_UberMeter_Base            Linear            0            0.0
+    Animate              ChargeMeter                    fgcolor            bh_UberMeter_Base            Linear            0            0.0
+}
