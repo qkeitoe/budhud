@@ -29,7 +29,6 @@
     #base    "../../#customization/_enabled/bh_feeling_festive.res"
     #base    "../../#users/zenith/resource/ui/mainmenuoverride.res"
     #base    "../../#users/zenith/#customization/_enabled/bh_menu_background.res"
-    #base    "../../_stream/resource/ui/mainmenuoverride.res"
     #base    "../../_budhud/resource/ui/mainmenuoverride_preloading.res"
     #base    "../../_budhud/resource/ui/mainmenuoverride.res"
     #base    "../../_tf2hud/resource/ui/mainmenuoverride.res"
