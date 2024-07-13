@@ -1,2 +1,3 @@
 Streamer HUD: ^\s*#base\s*"(../)*_stream.*$\n
 YouTube & Twitch User HUDs: ^\s*#base\s*"(../)*#users/(dane|jayhyunpae|ly_dee|powah|truktruk|whisker|zenith).*$\n
+#base (and "file") statements directing to '#customization/_enabled/' files: ^\s*(#base|"file")\s*"(../)*#customization/_enabled/.*$\n
