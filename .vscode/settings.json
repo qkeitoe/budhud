@@ -1,0 +1,15 @@
+{
+    "editor.detectIndentation": true,
+    "files.insertFinalNewline": false,
+    "[vdf]": {
+        "editor.insertSpaces": true
+    },
+    "files.associations": {
+        "bh_animate_*.txt": "hudanimations",
+        "bh_spy_hidedisguiseicon.txt": "hudanimations",
+        "bh_medic_rainbowcharge.txt": "hudanimations"
+    },
+    "editor.rulers": [
+        68
+    ]
+}
