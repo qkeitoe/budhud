@@ -1,1 +1,2 @@
 Streamer HUD: ^\s*#base\s*"(../)*_stream.*$\n
+YouTube & Twitch User HUDs: ^\s*#base\s*"(../)*#users/(dane|jayhyunpae|ly_dee|powah|truktruk|whisker|zenith).*$\n
