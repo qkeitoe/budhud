@@ -4,6 +4,11 @@
     {
     }
 
+    "Background"
+    {
+        "image"                                                     ""
+    }
+
     "bh_LeftBottomPin"
     {
         "ControlName"                                               "Label"
