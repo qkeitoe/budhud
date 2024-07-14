@@ -66,7 +66,7 @@
         "enabled"                                                   "0"
         "labelText"                                                 "#TF_Ball"
         "textAlignment"                                             "center"
-        "font"                                                      "bh_Font6"
+        "font"                                                      "bh_Font7"
         "disabledfgcolor2_override"                                 "bh_metertext"
     }
 
