@@ -45,5 +45,22 @@ Scheme
                 "outline"                                           "0"
             }
         }
+        "Default"
+        {
+            "4"
+            {
+                "name"                                              "Lato Semibold Modified"
+                "tall"                                              "26"
+                "weight"                                            "500"
+                "range"                                             ""
+            }
+        }
+        "ScoreboardVerySmall"
+        {
+            "1"
+            {
+                "tall"                                              "11"
+            }
+        }
     }
 }
