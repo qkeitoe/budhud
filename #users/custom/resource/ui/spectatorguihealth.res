@@ -6,4 +6,9 @@
         "visible"                                                   "0"
         "enabled"                                                   "0"
     }
+
+    "PlayerStatusHealthValueShadow"
+    {
+        "xpos"                                                      "-1"
+    }
 }
