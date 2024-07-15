@@ -48,5 +48,14 @@ Scheme
                 "antialias"                                         "1"
             }
         }
+
+        "ChatFont"
+        {
+            "4"
+            {
+                "tall"                                              "17"
+                "weight"                                            "700"
+            }
+        }
     }
 }
