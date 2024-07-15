@@ -15,5 +15,40 @@ Scheme
                 "antialias"                                         "0"
             }
         }
+
+        "Default"
+        {
+            "1"
+            {
+                "name"                                              "Verdana"
+                "tall"                                              "16"
+                "weight"                                            "500"
+                "antialias"                                         "1"
+            }
+        }
+
+        "DefaultSmall"
+        {
+            "1"
+            {
+                "name"                                              "Verdana"
+                "tall"                                              "16"
+                "weight"                                            "500"
+                "yres"                                              ""
+                "antialias"                                         "1"
+            }
+        }
+
+        "ConsoleText"
+        {
+            "1"
+            {
+                "name"                                              "Verdana"
+                "tall"                                              "16"
+                "weight"                                            "500"
+                "yres"                                              ""
+                "antialias"                                         "1"
+            }
+        }
     }
 }
