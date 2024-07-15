@@ -9,6 +9,7 @@ Files to be included in the compiled version:
     ./#users/custom/#customization/_enabled/bh_menu_defaultbackground/chapterbackgrounds.txt
     ./#users/custom/#customization/_enabled/bh_animate_foreground.txt
     ./#users/custom/#customization/_enabled/bh_medic_rainbowcharge.txt
+    ./cfg/
     ./materials/
     ./resource/
     ./scripts/
