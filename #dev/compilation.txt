@@ -1,0 +1,15 @@
+After compilation:
+    Search:             ^(\s*)(#base\s*"(../)*(#users/custom/|_tf2hud/|_budhud/))
+    Replace:            $1// $2
+    Files to include:   ./resource/, ./scripts/hudlayout.res, ./scripts/mod_textures.txt
+and manually comment out necessary #base statements in './scripts/chapterbackgrounds.txt'.
+
+Files to be included in the compiled version:
+    ./_budhud/scripts/hudanimations_budhud.txt
+    ./#users/custom/#customization/_enabled/bh_menu_defaultbackground/chapterbackgrounds.txt
+    ./#users/custom/#customization/_enabled/bh_animate_foreground.txt
+    ./#users/custom/#customization/_enabled/bh_medic_rainbowcharge.txt
+    ./materials/
+    ./resource/
+    ./scripts/
+    info.vdf
