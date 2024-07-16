@@ -12,6 +12,7 @@
 
     "scores"
     {
+        "score_width"                                               "20"
         "ping_width"                                                "24"
     }
 }
