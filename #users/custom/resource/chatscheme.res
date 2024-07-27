@@ -55,6 +55,7 @@ Scheme
             {
                 "tall"                                              "17"
                 "weight"                                            "700"
+                "antialias"                                         "0"
             }
         }
     }
