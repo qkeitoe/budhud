@@ -17,7 +17,7 @@
     "ChargeMeter"
     {
         "xpos"                                                      "c-50"
-        "ypos"                                                      "c117"
+        "ypos"                                                      "c114"
         "wide"                                                      "100"
         "tall"                                                      "6"
         "textalignment"                                             "center"
@@ -38,7 +38,7 @@
         "NumPipesLabel"
         {
             "xpos"                                                  "c-6"
-            "ypos"                                                  "c120"
+            "ypos"                                                  "c116"
             "font"                                                  "bh_Font24"
             "fgcolor"                                               "bh_white"
         }
@@ -69,7 +69,7 @@
         "NumPipesLabel"
         {
             "xpos"                                                  "c-6"
-            "ypos"                                                  "c120"
+            "ypos"                                                  "c116"
             "font"                                                  "bh_Font24"
             "fgcolor"                                               "bh_white"
         }

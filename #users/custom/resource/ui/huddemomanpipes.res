@@ -3,7 +3,7 @@
     "ChargeLabel"
     {
         "xpos"                                                      "c-50"
-        "ypos"                                                      "c117"
+        "ypos"                                                      "c114"
         "zpos"                                                      "3"
         "wide"                                                      "100"
         "tall"                                                      "6"
