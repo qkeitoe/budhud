@@ -2,7 +2,8 @@
     "editor.detectIndentation": true,
     "files.insertFinalNewline": false,
     "[vdf]": {
-        "editor.insertSpaces": true
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter"
     },
     "files.associations": {
         "bh_animate_*.txt": "hudanimations",
@@ -11,5 +12,6 @@
     },
     "editor.rulers": [
         68
-    ]
+    ],
+    "vscode-vdf.vdf.format.insertNewlineBeforeObjects": true
 }
