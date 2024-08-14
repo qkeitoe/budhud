@@ -96,6 +96,19 @@ try {
     $resource_backup = "$PSScriptRoot/#dev/resource_backup"
     $scripts_backup = "$PSScriptRoot/#dev/scripts_backup"
 
+    # tf2 executable names
+    $osPlatform = [System.Environment]::OSVersion.Platform
+
+    if ($osPlatform -eq [System.PlatformID]::Win32NT) {
+        $exe_names = "hl2.exe", "tf_win64.exe"
+    }
+    elseif ($osPlatform -eq [System.PlatformID]::Unix) {
+        $exe_names = "hl2", "tf_linux64"
+    }
+    else {
+        throw [System.PlatformNotSupportedException]::new("Only Windows and Linux are supported.")
+    }
+
     #################
     # Shared_EndTimer
     #################
@@ -121,27 +134,32 @@ try {
     ##################
     function Check_TF2Running {
         # Check for hl2.exe process
-        Write-Host -foregroundcolor "White" -NoNewLine "Checking if TF2 is running... "
+        Write-Host -ForegroundColor "White" -NoNewLine "Checking if TF2 is running... "
 
-        If
-        (
-            Get-Process hl2, tf_win64 -ErrorAction SilentlyContinue
-        ) {
-            Write-Host -foregroundcolor "White" -backgroundcolor "Red" "hl2 / tf_win64.exe detected"
+        $procnames = $exe_names
+
+        $osPlatform = [System.Environment]::OSVersion.Platform
+
+        if ($osPlatform -eq [System.PlatformID]::Win32NT) {
+            # On Windows, strip the .exe extension from the process names
+            $procnames = $procnames | ForEach-Object { $_.Substring(0, $_.Length - 4) }
+        }
+
+        if (Get-Process -Name $procnames -ErrorAction SilentlyContinue) {
+            Write-Host -ForegroundColor "White" -BackgroundColor "Red" "$($procnames -join " / ") detected"
             Write-Host ""
 
-            Write-Host -foregroundcolor "White" -backgroundcolor "Red" "Outcome"
-            Write-Host -foregroundcolor "White" "The script cannot proceed with Team Fortress 2 open"
+            Write-Host -ForegroundColor "White" -BackgroundColor "Red" "Outcome"
+            Write-Host -ForegroundColor "White" "The script cannot proceed with Team Fortress 2 open"
             Write-Host ""
 
-            Write-Host -foregroundcolor "White" -backgroundcolor "Green" "Solution"
-            Write-Host -foregroundcolor "White" "Close TF2 before using this script again"
+            Write-Host -ForegroundColor "White" -BackgroundColor "Green" "Solution"
+            Write-Host -ForegroundColor "White" "Close TF2 before using this script again"
             Write-Host ""
             Break
         }
-
-        Else {
-            Write-Host -foregroundcolor "White" -backgroundcolor "Blue" "TF2 not running"
+        else {
+            Write-Host -ForegroundColor "White" -BackgroundColor "Blue" "TF2 not running"
         }
     }
 
@@ -209,20 +227,24 @@ try {
     ################
     function Check_HUDFiles {
         # Check for hl2.exe file
-        Write-Host -foregroundcolor "White" -NoNewLine "Checking for hl2 or tf_win64.exe... "
-        $hl2 = Maybe_Path $tf "../hl2.exe"
-        $tf64 = Maybe_Path $tf "../tf_win64.exe"
+        $names = $exe_names -join " / "
+        Write-Host -foregroundcolor "White" -NoNewLine "Checking for $names... "
+        $bin_dir = Maybe_Path $tf ".."
 
-        If
-        (
-            ![String]::IsNullOrEmpty($hl2) -or
-            ![String]::IsNullOrEmpty($tf64)
-        ) {
-            Write-Host -foregroundcolor "White" -backgroundcolor "Blue" "File found"
+        $found = $false
+        foreach ($exe in $exe_names) {
+            $exe_path = Maybe_Path $bin_dir $exe
+            if (![String]::IsNullOrEmpty($exe_path)) {
+                $found = $true
+                break
+            }
         }
 
+        if ($found) {
+            Write-Host -foregroundcolor "White" -backgroundcolor "Blue" "File found"
+        }
         Else {
-            Write-Host -foregroundcolor "White" -backgroundcolor "Red" "Could not locate hl2 or tf_win64.exe"
+            Write-Host -foregroundcolor "White" -backgroundcolor "Red" "Could not locate $names"
             Write-Host ""
 
             Write-Host -foregroundcolor "White" -backgroundcolor "Red" "Outcome"
@@ -688,8 +710,8 @@ try {
         Write-Host -ForegroundColor "White" "Before proceeding, please take note of the following:"
         Write-Host ""
         Write-Host -ForegroundColor "White" "1. Only Windows builds are provided for this compiler."
-        Write-Host -ForegroundColor "White" "2. The compiler's source code is available on Alex's GitHub:"
-        Write-Host -ForegroundColor "White" "   https://github.com/from-the-river-to-the-sea/budhud-compiler"
+        Write-Host -ForegroundColor "White" "2. The compiler's original source code is gone, but you can see the fork of it here:"
+        Write-Host -ForegroundColor "White" "   https://github.com/rbjaxter/budhud-compiler"
         Write-Host -ForegroundColor "White" "3. After running this compiler, to edit your HUD in the future, you must either:"
         Write-Host -ForegroundColor "White" "   A. Make changes directly in the 'resource' and 'scripts' folders, or"
         Write-Host -ForegroundColor "White" "   B. Run this compiler whenever you make changes outside of the 'resource' and 'scripts' folders"
@@ -698,6 +720,11 @@ try {
         Write-Host -ForegroundColor "White" "If the compiler cannot be found, it will be automatically downloaded."
         Write-Host -ForegroundColor "White" "(the file isn't included with budhud due to its size relative to the hud)"
         Write-Host ""
+
+        if (![System.Environment]::OSVersion.Platform -eq [System.PlatformID]::Win32NT) {
+            Write-Host -foregroundcolor "White" -backgroundcolor "Red" "The compiler can only be used on Windows."
+            return
+        }
 
         Write-Host -ForegroundColor "White" -BackgroundColor "Yellow" "==================================="
         Write-Host -ForegroundColor "White" "Do you want to continue? [Y / N]"
@@ -762,14 +789,14 @@ try {
         }
 
         else {
-            Write-Host -foregroundcolor "White" -backgroundcolor "Yellow" "Backup files not found, creating a backup."
+            Write-Host -foregroundcolor "White" -backgroundcolor "Blue" "Backup files not found, creating a backup."
 
             try {
                 # Create backup of resource and scripts files
-                New-Item -Path "$resource_backup" -ItemType Directory -ErrorAction Stop
-                New-Item -Path "$scripts_backup" -ItemType Directory -ErrorAction Stop
-                Copy-Item -Path "$PSScriptRoot/resource/*" -Destination "$resource_backup" -Force -Recurse -ErrorAction Stop
-                Copy-Item -Path "$PSScriptRoot/scripts/*" -Destination "$scripts_backup" -Force -Recurse -ErrorAction Stop
+                New-Item -Path "$resource_backup" -ItemType Directory -ErrorAction Stop | Out-Null
+                New-Item -Path "$scripts_backup" -ItemType Directory -ErrorAction Stop | Out-Null
+                Copy-Item -Path "$PSScriptRoot/resource/*" -Destination "$resource_backup" -Force -Recurse -ErrorAction Stop | Out-Null
+                Copy-Item -Path "$PSScriptRoot/scripts/*" -Destination "$scripts_backup" -Force -Recurse -ErrorAction Stop | Out-Null
 
                 Write-Host -foregroundcolor "White" -backgroundcolor "Green" "Backup of resource and scripts created."
                 Write-Host -foregroundcolor "White" "These can be found in #dev/resource_backup and #dev/scripts_backup if you need to revert after compiling."
@@ -830,9 +857,7 @@ try {
         Write-Host -foregroundcolor "White" "within your budhud/resource and budhud/scripts folders after compiling."
         Write-Host -foregroundcolor "White" "Customizations made elsewhere (#customization, #users, _budhud, etc) will be unaffected."
         Write-Host ""
-        Write-Host -foregroundcolor "White" -backgroundcolor "Yellow" "==================================="
         Write-Host -foregroundcolor "White" "Would you like to continue? [Y / N]"
-        Write-Host -foregroundcolor "White" -backgroundcolor "Yellow" "==================================="
         Write-Host ""
 
         $response = Read-Host
@@ -929,10 +954,10 @@ try {
                 Write-Host ""
                 Write-Host -foregroundcolor "White" -backgroundcolor "Blue" "5. HUD Compiler (Windows only)"
                 Write-Host -foregroundcolor "Yellow" "The resource and scripts folder will be replaced"
-                Write-Host "Created by @alvancamp on Github, the HUD compiler is used to compile as many #base directives in budhud as possible."
+                Write-Host "Created by a brilliant mind, the HUD compiler is used to compile as many #base directives in budhud as possible."
                 Write-Host "In simpler terms, this merges all _budhud and _tf2hud files (as well as any enabled customizations) into single files"
                 Write-Host "that are then placed in resource and scripts."
-                Write-Host "Please see his GitHub repository here for more information: https://github.com/from-the-river-to-the-sea/budhud-compiler"
+                Write-Host "The original repo made by Lange is gone, but you can view the fork here: https://github.com/rbjaxter/budhud-compiler"
                 Write-Host ""
                 Write-Host -foregroundcolor "White" -backgroundcolor "Blue" "6. Revert HUD Compile"
                 Write-Host -foregroundcolor "Yellow" "The resource and scripts folder will be replaced"
