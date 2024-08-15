@@ -2,36 +2,36 @@
 {
     "CasualEntry"
     {
-        "ypos"                                                      "50"
+        "ypos"                                                      "75"
     }
 
     "CompetitiveEntry"
     {
-        "ypos"                                                      "100"
+        "ypos"                                                      "125"
     }
 
     "MvMEntry"
     {
-        "ypos"                                                      "150"
+        "ypos"                                                      "175"
     }
 
     "ServerBrowserEntry"
     {
-        "ypos"                                                      "200"
+        "ypos"                                                      "225"
     }
 
     "TrainingEntry"
     {
-        "ypos"                                                      "250"
+        "ypos"                                                      "275"
     }
 
     "CreateServerEntry"
     {
-        "ypos"                                                      "300"
+        "ypos"                                                      "325"
     }
 
     "bh_Quickplay"
     {
-        "ypos"                                                      "354"
+        "ypos"                                                      "r-6969"
     }
 }
