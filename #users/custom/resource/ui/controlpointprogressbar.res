@@ -14,8 +14,8 @@
     {
         "xpos"                                                      "cs-0.5"
         "ypos"                                                      "rs1-5"
-        "wide"                                                      "40"
-        "tall"                                                      "40"
+        "wide"                                                      "36"
+        "tall"                                                      "36"
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
