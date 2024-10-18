@@ -821,7 +821,7 @@ try {
 
         # Run the compiler
         Write-Output "Compiling resource & scripts..."
-        ./budhud-compiler.exe -s -i "resource_backup", "scripts_backup" -o "resource", "scripts"
+        ./budhud-compiler.exe -s -m -i "resource_backup", "scripts_backup" -o "resource", "scripts"
 
         # Compiler and file watcher
         #./budhud-compiler.exe -s -w -t "_budhud/resource","_budhud/scripts" -i "resource_backup","scripts_backup" -o "resource","scripts"
