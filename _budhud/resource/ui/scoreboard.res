@@ -232,10 +232,21 @@
         {
             "visible"                                               "0"
         }
+
     }
 
     "BlueTeamLabel"
     {
+        //"pin_to_sibling"                                          "bh_BluePin"
+        //
+        //"xpos"                                                    "0"
+        //"ypos"                                                    "7"
+        //"wide"                                                    "300"
+        //"tall"                                                    "30"
+        //"textAlignment"                                           "center"
+        //"font"                                                    "bh_Font18"
+        //"fgcolor"                                                 "bh_blue"
+
         "ypos"                                                      "r-6969"
         "visible"                                                   "0"
         "enabled"                                                   "0"
@@ -307,6 +318,16 @@
 
     "RedTeamLabel"
     {
+    //  "pin_to_sibling"                                            "bh_RedPin"
+    //
+    //  "xpos"                                                      "0"
+    //  "ypos"                                                      "7"
+    //  "wide"                                                      "300"
+    //  "tall"                                                      "30"
+    //  "textAlignment"                                             "center"
+    //  "font"                                                      "bh_Font18"
+    //  "fgcolor"                                                   "bh_red"
+
         "ypos"                                                      "r-6969"
         "visible"                                                   "0"
         "enabled"                                                   "0"

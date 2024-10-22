@@ -1711,112 +1711,132 @@
 				{
 					"0"
 					{
-						"item"		"Halloween 2024 Key"
+						"item"		"Summer 2024 Cosmetic Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Halloween 2024 Case"
+						"item"		"Summer 2024 Cosmetic Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Scream Fortress 2024 War Paint Key"
+						"item"		"Taunt: Can It!"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Scream Fortress 2024 War Paint Case"
-						"show_market"	"1"
+						"item"		"Taunt: Cremator's Condolences"
+						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: Crushing Defeat"
+						"item"		"Taunt: Straight Shooter Tutor"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Taunt: Peace Out"
+						"item"		"Taunt: Unleashed Rage"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Taunt: Commending Clap"
+						"item"		"Map Token Embargo"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Taunt: The Punchline"
+						"item"		"Map Token Odyssey"	
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Toxic"
+						"item"		"Map Token Megaton"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Darkmarsh"	
+						"item"		"Map Token Cachoeira"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Freaky Fair"
+						"item"		"Map Token Overgrown"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Map Token Dynamite"
+						"item"		"Map Token Hadal"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Map Token Circus"
+						"item"		"Map Token Applejack"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Map Token Outburst"
+						"item"		"Map Token Atom Smash"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Map Token Blazehattan"
+						"item"		"Map Token Canaveral"
 						"show_market"	"0"
 					}
 					"15"
 					{
-						"item"		"Strange Filter: Toxic (Community)"
+						"item"		"Map Token Burghausen"
 						"show_market"	"0"
 					}
 					"16"
 					{
-						"item"		"Strange Filter: Darkmarsh (Community)"
+						"item"		"Strange Filter: Embargo (Community)"
 						"show_market"	"0"
 					}
 					"17"
 					{
-						"item"		"Strange Filter: Freaky Fair (Community)"
+						"item"		"Strange Filter: Odyssey (Community)"
 						"show_market"	"0"
 					}
 					"18"
 					{
-						"item"		"Strange Filter: Dynamite (Community)"
+						"item"		"Strange Filter: Megaton (Community)"
 						"show_market"	"0"
 					}
 					"19"
 					{
-						"item"		"Strange Filter: Circus (Community)"
+						"item"		"Strange Filter: Cachoeira (Community)"
 						"show_market"	"0"
 					}
 					"20"
 					{
-						"item"		"Strange Filter: Outburst (Community)"
+						"item"		"Strange Filter: Overgrown (Community)"
 						"show_market"	"0"
 					}
 					"21"
 					{
-						"item"		"Strange Filter: Blazehattan (Community)"
+						"item"		"Strange Filter: Hadal (Community)"
+						"show_market"	"0"
+					}
+					"22"
+					{
+						"item"		"Strange Filter: Applejack (Community)"
+						"show_market"	"0"
+					}
+					"23"
+					{
+						"item"		"Strange Filter: Atom Smash (Community)"
+						"show_market"	"0"
+					}
+					"24"
+					{
+						"item"		"Strange Filter: Canaveral (Community)"
+						"show_market"	"0"
+					}
+					"25"
+					{
+						"item"		"Strange Filter: Burghausen (Community)"
 						"show_market"	"0"
 					}
 				}
@@ -2264,7 +2284,7 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"RoundedCorners"	"10"
+			
 			
 			"paintbackground"	"1"
 			

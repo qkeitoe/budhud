@@ -24,7 +24,7 @@
 		"fieldName"		"SwitchLabel"
 		"font"			"HudFontSmallBold"
 		"xpos"			"80"
-		"ypos"			"25"
+		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"220"	[$WIN32]
 		"wide"			"180"	[$_disabled_]
@@ -43,7 +43,7 @@
 		"fieldName"		"GoalLabel"
 		"font"			"HudFontSmall"
 		"xpos"			"80"
-		"ypos"			"40"
+		"ypos"			"35"
 		"zpos"			"1"
 		"wide"			"220"
 		"wide$_disabled_"	"200"

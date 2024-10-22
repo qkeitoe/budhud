@@ -67,9 +67,9 @@
 
     "MapInfoText"
     {
-        "xpos"                                                      "c-125"
+        "xpos"                                                      "c-250"
         "ypos"                                                      "150"
-        "wide"                                                      "300"
+        "wide"                                                      "500"
         "tall"                                                      "250"
         "fgcolor"                                                   "bh_white"
         "font"                                                      "bh_Font12"
