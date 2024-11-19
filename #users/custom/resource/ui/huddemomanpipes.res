@@ -1,5 +1,26 @@
 "Resource/UI/HudDemomanPipes.res"
 {
+    "ChargeMeter"
+    {
+        "ypos"                                                      "c114"
+    }
+
+    "PipesPresentPanel"
+    {
+        "NumPipesLabel"
+        {
+            "ypos"                                                  "c116"
+        }
+    }
+
+    "NoPipesPresentPanel"
+    {
+        "NumPipesLabel"
+        {
+            "ypos"                                                  "c116"
+        }
+    }
+
     "ChargeLabel"
     {
         "xpos"                                                      "c-50"
