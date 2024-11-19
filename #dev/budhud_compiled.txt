@@ -4,7 +4,13 @@ Files to be included in a compiled version:
     #users/custom/#customization/_enabled/bh_animate_foreground.txt
     #users/custom/#customization/_enabled/bh_medic_rainbowcharge.txt
     cfg/overrides/hud/hud_options.cfg
-    materials/
-    resource/
-    scripts/
+    materials/**
+    resource/**
+    scripts/**
     info.vdf
+
+Large files to exclude from a compiled version:
+    materials/console/**
+    materials/vgui/replay/thumbnails/#users/**
+    materials/vgui/replay/thumbnails/menu_icons/menugif.*
+    resource/closecaption_/**
