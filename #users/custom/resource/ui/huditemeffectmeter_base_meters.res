@@ -38,7 +38,7 @@
         "scaleimage"                                                "1"
     }
 
-    HudItemEffectMeter
+    "HudItemEffectMeter"
     {
         "fieldName"                                                 "HudItemEffectMeter"
         "visible"                                                   "1"

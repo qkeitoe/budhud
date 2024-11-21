@@ -1,6 +1,6 @@
 "Resource/UI/MainMenuOverride.res"
 {
-    MainMenuOverride
+    "MainMenuOverride"
     {
     }
 

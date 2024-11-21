@@ -9,7 +9,7 @@
             "wide"                                                  "70"
             "tall"                                                  "32"
 
-            if_mini
+            "if_mini"
             {
                 "xpos"                                              "c-75"
                 "ypos"                                              "74"
@@ -25,7 +25,7 @@
             "wide"                                                  "70"
             "tall"                                                  "32"
 
-            if_mini
+            "if_mini"
             {
                 "xpos"                                              "c-50"
                 "ypos"                                              "74"

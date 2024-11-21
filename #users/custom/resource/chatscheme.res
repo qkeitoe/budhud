@@ -1,6 +1,6 @@
-Scheme
+"Scheme"
 {
-    Fonts
+    "Fonts"
     {
         "DefaultVerySmall"
         {
@@ -12,6 +12,7 @@ Scheme
                 "range"                                             "0x0000 0x017F"
                 "yres"                                              "480 599"
             }
+
             "2"
             {
                 "name"                                              "Verdana"
@@ -20,6 +21,7 @@ Scheme
                 "range"                                             "0x0000 0x017F"
                 "yres"                                              "600 767"
             }
+
             "3"
             {
                 "name"                                              "Verdana"
@@ -29,6 +31,7 @@ Scheme
                 "yres"                                              "768 1023"
                 "antialias"                                         "1"
             }
+
             "4"
             {
                 "name"                                              "Verdana"
@@ -38,6 +41,7 @@ Scheme
                 "yres"                                              "1024 1199"
                 "antialias"                                         "1"
             }
+
             "5"
             {
                 "name"                                              "Verdana"

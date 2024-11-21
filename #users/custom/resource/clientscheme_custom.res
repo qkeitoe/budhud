@@ -1,6 +1,6 @@
-Scheme
+"Scheme"
 {
-    Colors
+    "Colors"
     {
         "bh_Health_Low"                                             "255 128 028 255"
         "bh_Health_Buff"                                            "000 255 063 255"
@@ -20,14 +20,14 @@ Scheme
         "bh_metertext"                                              "050 052 057 255"
     }
 
-    BaseSettings
+    "BaseSettings"
     {
         "ItemColor"                                                 "255 167 042 255"
     }
 
-    Fonts
+    "Fonts"
     {
-        bh_Font7
+        "bh_Font7"
         {
             "1"
             {
@@ -39,7 +39,8 @@ Scheme
                 "outline"                                           "0"
             }
         }
-        bh_Font11
+
+        "bh_Font11"
         {
             "1"
             {
@@ -51,6 +52,7 @@ Scheme
                 "outline"                                           "0"
             }
         }
+
         "Default"
         {
             "4"
@@ -60,6 +62,7 @@ Scheme
                 "range"                                             ""
             }
         }
+
         "ScoreboardVerySmall"
         {
             "1"

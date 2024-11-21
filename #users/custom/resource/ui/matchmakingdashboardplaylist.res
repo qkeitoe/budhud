@@ -58,7 +58,7 @@
         "SteamFriendsList"
         {
             "ControlName"                                           "CSteamFriendsListPanel"
-            "fieldname"	                                            "SteamFriendsList"
+            "fieldname"                                             "SteamFriendsList"
             "xpos"                                                  "0"
             "ypos"                                                  "2"
             "zpos"                                                  "500"

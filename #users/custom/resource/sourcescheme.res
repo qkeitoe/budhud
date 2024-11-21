@@ -1,6 +1,6 @@
-Scheme
+"Scheme"
 {
-    Fonts
+    "Fonts"
     {
         "DefaultFixedOutline"
         {
