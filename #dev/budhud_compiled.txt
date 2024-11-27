@@ -5,13 +5,14 @@ Files to be included in a compiled version:
     #users/custom/#customization/_enabled/bh_medic_rainbowcharge.txt
     #users/custom/scripts/hudanimations_custom.txt
     cfg/overrides/hud/hud_options.cfg
-    materials/**
-    resource/**
-    scripts/**
+    cfg/valve.rc
+    materials/
+    resource/
+    scripts/
     info.vdf
 
 Large files to exclude from a compiled version:
-    materials/console/**
-    materials/vgui/replay/thumbnails/#users/**
+    materials/console/
+    materials/vgui/replay/thumbnails/#users/
     materials/vgui/replay/thumbnails/menu_icons/menugif.*
-    resource/closecaption_/**
+    resource/closecaption_/
