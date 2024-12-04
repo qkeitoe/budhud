@@ -20,8 +20,8 @@
         {
             "1"
             {
-                "name"                                              "Verdana"
-                "tall"                                              "16"
+                "name"                                              "Lucida Console"
+                "tall"                                              "14"
                 "weight"                                            "500"
                 "antialias"                                         "1"
             }
@@ -31,10 +31,9 @@
         {
             "1"
             {
-                "name"                                              "Verdana"
-                "tall"                                              "16"
+                "name"                                              "Lucida Console"
+                "tall"                                              "14"
                 "weight"                                            "500"
-                "yres"                                              ""
                 "antialias"                                         "1"
             }
         }
@@ -43,10 +42,9 @@
         {
             "1"
             {
-                "name"                                              "Verdana"
-                "tall"                                              "16"
+                "name"                                              "Lucida Console"
+                "tall"                                              "14"
                 "weight"                                            "500"
-                "yres"                                              ""
                 "antialias"                                         "1"
             }
         }
