@@ -71,4 +71,15 @@
             }
         }
     }
+
+    "CustomFontFiles"
+    {
+        "8"
+        {
+            "english"
+            {
+                "range"                                             "0x0021 0x0513"
+            }
+        }
+    }
 }
