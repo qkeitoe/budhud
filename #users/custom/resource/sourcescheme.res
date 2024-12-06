@@ -69,6 +69,14 @@
         }
     }
 
+    "Borders"
+    {
+        "FrameBorder"
+        {
+            "backgroundtype"                                        "0"
+        }
+    }
+
     "CustomFontFiles"
     {
         "4"
