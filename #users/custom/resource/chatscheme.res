@@ -9,7 +9,6 @@
                 "name"                                              "Lato Semibold"
                 "tall"                                              "16"
                 "weight"                                            "500"
-                "yres"                                              "1024 1199"
                 "antialias"                                         "1"
             }
         }
