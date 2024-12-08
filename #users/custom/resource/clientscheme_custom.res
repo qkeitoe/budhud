@@ -70,6 +70,15 @@
                 "tall"                                              "11"
             }
         }
+
+        "HudHintText"
+        {
+            "4"
+            {
+                "tall"                                              "19"
+                "antialias"                                         "1"
+            }
+        }
     }
 
     "CustomFontFiles"
