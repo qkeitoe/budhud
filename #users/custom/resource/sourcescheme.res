@@ -35,13 +35,24 @@
             }
         }
 
+        "DefaultLarge"
+        {
+            "1"
+            {
+                "name"                                              "Lato Semibold"
+                "tall"                                              "19"
+                "weight"                                            "500"
+                "antialias"                                         "1"
+            }
+        }
+
         "UiBold"
         {
             "1"
             {
                 "name"                                              "Lato Semibold"
                 "tall"                                              "19"
-                "weight"                                            "900"
+                "weight"                                            "500"
                 "antialias"                                         "1"
             }
         }
