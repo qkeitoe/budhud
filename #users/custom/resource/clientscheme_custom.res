@@ -63,6 +63,16 @@
             }
         }
 
+        "DefaultSmall"
+        {
+            "4"
+            {
+                "tall"                                              "19"
+                "weight"                                            "500"
+                "range"                                             ""
+            }
+        }
+
         "ScoreboardVerySmall"
         {
             "1"

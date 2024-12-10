@@ -72,6 +72,9 @@ clovervidia: https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
 * sheybey
 * Wiethoofd
 
+### Engineer building status icons
+* Hypnotize: [m0rehud](https://github.com/Hypnootize/m0rehud)
+
 ## Previous Fonts
 * Roboto Condensed: https://www.fontsquirrel.com/fonts/roboto
 * Designosaur: https://fontlibrary.org/en/font/designosaur
