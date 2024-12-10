@@ -16,8 +16,8 @@
         "ypos"                                                      "rs1-5"
         "wide"                                                      "36"
         "tall"                                                      "36"
+        "proportionaltoparent"                                      "1"
         "visible"                                                   "1"
         "enabled"                                                   "1"
-        "proportionaltoparent"                                      "1"
     }
 }

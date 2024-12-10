@@ -4,7 +4,6 @@
     {
         "xpos"                                                      "0"
         "wide"                                                      "186"
-
         "border"                                                    "NoBorder"
     }
 

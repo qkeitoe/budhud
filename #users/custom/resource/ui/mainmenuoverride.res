@@ -34,10 +34,8 @@
     {
         "pin_to_sibling"                                            "bh_LeftBottomPin"
         "pin_corner_to_sibling"                                     "PIN_BOTTOMLEFT"
-
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "west"
     }
 
@@ -45,7 +43,6 @@
     {
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "west"
     }
 
@@ -53,11 +50,9 @@
     {
         "pin_to_sibling"                                            "bh_LeftBottomPin"
         "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
-
         "ypos"                                                      "0"
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "west"
     }
 
@@ -65,7 +60,6 @@
     {
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "west"
     }
 
@@ -73,11 +67,9 @@
     {
         "pin_to_sibling"                                            "bh_RightBottomPin"
         "pin_corner_to_sibling"                                     "PIN_TOPRIGHT"
-
         "ypos"                                                      "0"
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "east"
     }
 
@@ -85,7 +77,6 @@
     {
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "east"
     }
 
@@ -93,11 +84,9 @@
     {
         "pin_to_sibling"                                            "bh_RightBottomPin"
         "pin_corner_to_sibling"                                     "PIN_BOTTOMRIGHT"
-
         "wide"                                                      "125"
         "tall"                                                      "20"
         "ypos"                                                      "0"
-
         "textAlignment"                                             "east"
     }
 
@@ -105,7 +94,6 @@
     {
         "wide"                                                      "125"
         "tall"                                                      "20"
-
         "textAlignment"                                             "east"
     }
 

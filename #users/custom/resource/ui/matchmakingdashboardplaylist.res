@@ -18,7 +18,6 @@
         "zpos"                                                      "99"
         "wide"                                                      "f0"
         "tall"                                                      "f0"
-
         "textAlignment"                                             "west"
     }
 
@@ -52,7 +51,6 @@
         "wide"                                                      "f0"
         "tall"                                                      "61"
         "visible"                                                   "1"
-
         "border"                                                    "NoBorder"
 
         "SteamFriendsList"
@@ -66,7 +64,6 @@
             "tall"                                                  "52"
             "visible"                                               "1"
             "proportionaltoparent"                                  "1"
-
             "columns_count"                                         "5"
             "inset_x"                                               "3"
             "inset_y"                                               "0"
