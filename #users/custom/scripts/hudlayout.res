@@ -8,5 +8,8 @@
     "HudDeathNotice"
     {
         "xpos"                                                      "r633"
+
+        "LineHeight"                                                "14"
+        "LineSpacing"                                               "0"
     }
 }
