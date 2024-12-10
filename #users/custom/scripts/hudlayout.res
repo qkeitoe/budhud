@@ -5,6 +5,11 @@
         "player_name_font"                                          "bh_Font12DropShadow"
     }
 
+    "CHudAccountPanel"
+    {
+        "ypos"                                                      "c-3"
+    }
+
     "HudDeathNotice"
     {
         "xpos"                                                      "r633"
