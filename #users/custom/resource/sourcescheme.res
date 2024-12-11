@@ -2,6 +2,15 @@
 {
     "Fonts"
     {
+        "DefaultFixedOutline"
+        {
+            "4"
+            {
+                "dropshadow"                                        "0"
+                "outline"                                           "1"
+            }
+        }
+
         "Default"
         {
             "1"
