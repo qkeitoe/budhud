@@ -1,4 +1,3 @@
-sound/sound.cache
+sound/
 budhud-compiler.exe
-budhud_compiled/
-budhud_compiled.zip
+budhud_compiled*
