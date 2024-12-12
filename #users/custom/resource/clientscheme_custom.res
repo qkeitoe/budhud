@@ -81,18 +81,7 @@
             "4"
             {
                 "tall"                                              "19"
-                "antialias"                                         "1"
-            }
-        }
-    }
-
-    "CustomFontFiles"
-    {
-        "8"
-        {
-            "english"
-            {
-                "range"                                             "0x0021 0x0513"
+                "weight"                                            "500"
             }
         }
     }

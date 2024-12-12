@@ -6,10 +6,8 @@
         {
             "4"
             {
-                "name"                                              "Lato Semibold"
                 "tall"                                              "16"
                 "weight"                                            "500"
-                "antialias"                                         "1"
             }
         }
 
@@ -17,10 +15,7 @@
         {
             "4"
             {
-                "name"                                              "Lato Semibold"
                 "tall"                                              "19"
-                "weight"                                            "500"
-                "antialias"                                         "1"
             }
         }
     }
