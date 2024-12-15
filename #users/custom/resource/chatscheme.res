@@ -19,18 +19,4 @@
             }
         }
     }
-
-    "CustomFontFiles"
-    {
-        "3"
-        {
-            "font"                                                  "resource/fonts/font-latosemibold-original.ttf"
-            "name"                                                  "Lato Semibold"
-
-            "english"
-            {
-                "range"                                             "0x0021 0x0513"
-            }
-        }
-    }
 }
