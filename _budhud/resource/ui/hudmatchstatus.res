@@ -125,32 +125,13 @@
     {
         "Background"
         {
-            "ControlName"                                           "ImagePanel"
-            "fieldName"                                             "Background"
-            "xpos"                                                  "c-40"
+            "xpos"                                                  "cs-0.5"
             "ypos"                                                  "2"
             "zpos"                                                  "0"
             "wide"                                                  "80"
             "tall"                                                  "11"
-            "autoResize"                                            "0"
-            "pinCorner"                                             "0"
-            "labeltext"                                             ""
-            "visible"                                               "0"
-            "enabled"                                               "1"
             "fillcolor"                                             "125 125 125 064"
-            "paintbackgroundtype"                                   "0"
-            "proportionaltoparent"                                   "1"
-
-            "if_match"
-            {
-                "visible"                                           "1"
-            }
-
-            "if_mvm"
-            {
-                "ypos"                                              "r-6969"
-                "visible"                                           "0"
-            }
+            "proportionaltoparent"                                  "1"
         }
     }
 
