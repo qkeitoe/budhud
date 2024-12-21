@@ -16,4 +16,9 @@
         "LineHeight"                                                "14"
         "LineSpacing"                                               "0"
     }
+
+    "CSpectatorTargetID"
+    {
+        "y_offset"                                                  "0"
+    }
 }
