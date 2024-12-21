@@ -32,10 +32,8 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold"
                 "tall"                                              "19"
                 "weight"                                            "500"
-                "antialias"                                         "1"
             }
         }
 
@@ -63,10 +61,8 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold"
                 "tall"                                              "19"
                 "weight"                                            "500"
-                "antialias"                                         "1"
             }
         }
 
@@ -74,10 +70,8 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold"
-                "weight"                                            "500"
                 "tall"                                              "16"
-                "antialias"                                         "1"
+                "weight"                                            "500"
             }
         }
     }
