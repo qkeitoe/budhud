@@ -105,6 +105,7 @@ try {
         'materials/vgui/replay/thumbnails/m0re_healthcross/',
         'materials/vgui/replay/thumbnails/menu_icons/menugif.*',
         'materials/vgui/replay/thumbnails/overlays/',
+        'materials/vgui/replay/thumbnails/speedometer',
         'resource/closecaption_/'
     )
     foreach ($fileOrFolder in $notRequiredFilesAndFolders) {
