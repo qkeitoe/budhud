@@ -72,6 +72,16 @@
             "1"
             {
                 "tall"                                              "11"
+                "weight"                                            "500"
+            }
+        }
+
+        "ScoreboardSmall"
+        {
+            "1"
+            {
+                "tall"                                              "11"
+                "weight"                                            "500"
             }
         }
 

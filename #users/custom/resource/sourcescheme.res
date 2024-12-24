@@ -52,7 +52,6 @@
             {
                 "name"                                              "Lato Semibold"
                 "tall"                                              "16"
-                "weight"                                            "500"
                 "antialias"                                         "1"
             }
         }
