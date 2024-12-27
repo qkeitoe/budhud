@@ -102,7 +102,6 @@ try {
     $notRequiredFilesAndFolders = @(
         'materials/console/',
         'materials/vgui/replay/thumbnails/#users/',
-        'materials/vgui/replay/thumbnails/m0re_healthcross/',
         'materials/vgui/replay/thumbnails/menu_icons/menugif.*',
         'materials/vgui/replay/thumbnails/overlays/',
         'materials/vgui/replay/thumbnails/speedometer',
