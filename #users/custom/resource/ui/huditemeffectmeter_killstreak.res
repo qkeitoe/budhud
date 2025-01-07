@@ -6,11 +6,6 @@
 
 "Resource/UI/huditemeffectmeter_killstreak.res"
 {
-    "== huditemeffectmeter_killstreak =="
-    {
-        "ControlName"                                               "ImagePanel"
-    }
-
     "HudItemEffectMeter"
     {
         "ypos"                                                      "r-6969"

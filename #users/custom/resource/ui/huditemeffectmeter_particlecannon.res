@@ -6,11 +6,3 @@
 // ============================================================================================== //
 // Soldier - Cow Mangler 5000
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-"Resource/UI/huditemeffectmeter_particlecannon.res"
-{
-    "== huditemeffectmeter_particlecannon =="
-    {
-        "ControlName"                                               "ImagePanel"
-    }
-}

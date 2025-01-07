@@ -10,11 +10,3 @@
 // Sniper   -   Jarate, Razorback
 // Spy      -   Invis Watch, Clock and Dagger, Dead Ringer
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-"Resource/UI/HudItemEffectMeter.res"
-{
-    "== huditemeffectmeter =="
-    {
-        "ControlName"                                               "ImagePanel"
-    }
-}

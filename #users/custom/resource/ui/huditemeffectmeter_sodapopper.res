@@ -6,11 +6,3 @@
 // ============================================================================================== //
 // Scout - Baby Face's Blaster, Soda Popper
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-"Resource/UI/huditemeffectmeter_sodapopper.res"
-{
-    "== huditemeffectmeter_sodapopper =="
-    {
-        "ControlName"                                               "ImagePanel"
-    }
-}

@@ -9,11 +9,6 @@
 
 "Resource/UI/huditemeffectmeter_powerupbottle.res"
 {
-    "== huditemeffectmeter_powerupbottle =="
-    {
-        "ControlName"                                               "ImagePanel"
-    }
-
     "ItemEffectIcon"
     {
         "xpos"                                                      "7"

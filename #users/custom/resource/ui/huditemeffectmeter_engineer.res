@@ -6,11 +6,3 @@
 // ============================================================================================== //
 // Engineer - Revenge Crits (Frontier Justice)
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-"Resource/UI/huditemeffectmeter_engineer.res"
-{
-    "== huditemeffectmeter_engineer =="
-    {
-        "ControlName"                                               "ImagePanel"
-    }
-}
