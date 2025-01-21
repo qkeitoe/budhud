@@ -1,6 +1,3 @@
-"#base"                                                             "huditemeffectmeter_base_meters_pos2.res"
-"#base"                                                             "huditemeffectmeter_base_meters.res"
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 // Affected Weapons
 // ============================================================================================== //
@@ -10,3 +7,6 @@
 // Sniper   -   Jarate, Razorback
 // Spy      -   Invis Watch, Clock and Dagger, Dead Ringer
 ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#base                                                               "huditemeffectmeter_base_meters_pos2.res"
+#base                                                               "huditemeffectmeter_base_meters.res"

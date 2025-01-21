@@ -1,8 +1,8 @@
-"#base"                                                             "huditemeffectmeter_base_meters_pos3.res"
-"#base"                                                             "huditemeffectmeter_base_meters.res"
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 // Affected Weapons
 // ============================================================================================== //
 // Spy - Spycicle
 ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#base                                                               "huditemeffectmeter_base_meters_pos3.res"
+#base                                                               "huditemeffectmeter_base_meters.res"

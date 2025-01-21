@@ -1,11 +1,11 @@
-"#base"                                                             "huditemeffectmeter_base_counters_pos3.res"
-"#base"                                                             "huditemeffectmeter_base_counters.res"
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 // Affected Elements / Weapons
 // ============================================================================================== //
 // MvM Canteen
 ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#base                                                               "huditemeffectmeter_base_counters_pos3.res"
+#base                                                               "huditemeffectmeter_base_counters.res"
 
 "Resource/UI/huditemeffectmeter_powerupbottle.res"
 {
