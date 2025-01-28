@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$baseTexture"                                                  "sprites/obj_icons/capture_highlight"
+    "$translucent"                                                  "1"
+    "$vertexcolor"                                                  "1"
+    "$alpha"                                                        "0"
+}

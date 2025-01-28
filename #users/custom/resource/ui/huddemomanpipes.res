@@ -30,7 +30,7 @@
         "tall"                                                      "6"
         "enabled"                                                   "0"
         "textAlignment"                                             "center"
-        "font"                                                      "bh_Font7"
+        "font"                                                      "bh_Font6"
         "disabledfgcolor2_override"                                 "bh_metertext"
     }
 }

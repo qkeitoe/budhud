@@ -6,4 +6,3 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #base                                                               "huditemeffectmeter_base_meters_pos1.res"
-#base                                                               "huditemeffectmeter_base_meters.res"

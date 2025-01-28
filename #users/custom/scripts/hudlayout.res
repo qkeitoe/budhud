@@ -2,19 +2,12 @@
 {
     "HudSpectatorExtras"
     {
-        "player_name_font"                                          "bh_Font12DropShadow"
+        "player_name_font"                                          "bh_Font8"
     }
 
     "CHudAccountPanel"
     {
         "ypos"                                                      "c-3"
-    }
-
-    "HudDeathNotice"
-    {
-        "xpos"                                                      "r633"
-        "LineHeight"                                                "14"
-        "LineSpacing"                                               "0"
     }
 
     "CSpectatorTargetID"
