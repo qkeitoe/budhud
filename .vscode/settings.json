@@ -5,6 +5,10 @@
         "editor.insertSpaces": true,
         "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter"
     },
+    "[vmt]": {
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter"
+    },
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
