@@ -117,8 +117,6 @@ try {
 
     Compress-Archive -Path $budhudCompiled -DestinationPath "$budhudCompiled.zip"
 
-    Remove-Item -Path $budhudCompiled -Recurse
-
     Write-Done
 }
 catch {
