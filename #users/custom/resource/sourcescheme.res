@@ -19,6 +19,14 @@
             }
         }
 
+        "DefaultSmall"
+        {
+            "1"
+            {
+                "tall"                                              "12"
+            }
+        }
+
         "ConsoleText"
         {
             "1"
