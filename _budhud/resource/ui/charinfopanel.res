@@ -95,9 +95,9 @@
         "HeaderLine"
         {
             "ControlName"                                           "EditablePanel"
-            "ypos"                                                  "19"
-            "tall"                                                  "2"
-            "bgcolor_override"                                      "bh_border"
+            "ypos"                                                  "19" // no s or p
+            "zpos"                                                  "101"
+            "border"                                                "bh_b_N"
         }
 
         "tabskv"
