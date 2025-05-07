@@ -103,7 +103,7 @@ try {
         'materials/console/',
         'materials/vgui/replay/thumbnails/#users/',
         'materials/vgui/replay/thumbnails/menu_icons/menugif.*',
-        'materials/vgui/replay/thumbnails/overlays/',
+        'materials/vgui/replay/thumbnails/overlays/bh_refract.*',
         'materials/vgui/replay/thumbnails/speedometer/',
         'resource/closecaption_/'
     )
