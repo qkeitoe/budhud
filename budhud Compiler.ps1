@@ -115,11 +115,29 @@ try {
 
     Write-Done
 
-    Write-Task 'Archiving'
+    do {
+        $response = Read-Host "Create an archive with the compiled HUD? (Y/N)"
 
-    Compress-Archive -Path $budhudCompiled -DestinationPath "$budhudCompiled.zip"
+        switch ($response.ToUpper()) {
+            'Y' {
+                Write-Task "Creating archive..." -ForegroundColor Green
 
-    Write-Done
+                Compress-Archive -Path $budhudCompiled -DestinationPath "$budhudCompiled.zip"
+
+                Write-Done
+
+                break
+            }
+            'N' {
+                Write-Host "Archive creation canceled." -ForegroundColor Yellow
+
+                break
+            }
+            default {
+                Write-Host "Invalid input. Please enter Y or N." -ForegroundColor Red
+            }
+        }
+    } while ($response -notmatch '^[YNyn]$')
 }
 catch {
     Write-Host "An error occurred: $_" -ForegroundColor Red
