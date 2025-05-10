@@ -111,6 +111,8 @@ try {
         Remove-Item -Path "$budhudCompiled/$fileOrFolder" -Recurse
     }
 
+    Get-ChildItem -Path "$budhudCompiled/resource/chat_*.txt" | Where-Object Name -NotMatch "chat_english.txt" | Remove-Item
+
     Write-Done
 
     Write-Task 'Archiving'

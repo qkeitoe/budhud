@@ -3,11 +3,17 @@
     "files.insertFinalNewline": false,
     "[vdf]": {
         "editor.insertSpaces": true,
-        "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter"
+        "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter",
+        "editor.rulers": [
+            68
+        ],
     },
     "[vmt]": {
         "editor.insertSpaces": true,
-        "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter"
+        "editor.defaultFormatter": "pfwobcke.vscode-budhud-formatter",
+        "editor.rulers": [
+            68
+        ],
     },
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
@@ -18,8 +24,5 @@
         "bh_medic_rainbowcharge.txt": "hudanimations",
         "*valve.rc": "cfg"
     },
-    "editor.rulers": [
-        68
-    ],
     "vscode-vdf.vdf.format.insertNewlineBeforeObjects": true
 }
