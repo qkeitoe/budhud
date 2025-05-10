@@ -116,7 +116,11 @@ try {
     Write-Done
 
     do {
-        $response = Read-Host "Create an archive with the compiled HUD? (Y/N)"
+        $response = Read-Host "Create an archive with the compiled HUD? (Y/N) [default: N]"
+
+        if ([string]::IsNullOrWhiteSpace($response)) {
+            $response = 'N'
+        }
 
         switch ($response.ToUpper()) {
             'Y' {
