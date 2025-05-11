@@ -14,4 +14,10 @@
     {
         "y_offset"                                                  "0"
     }
+
+    "WinPanel"
+    {
+        "ypos"                                                      "0"
+        "tall"                                                      "f0"
+    }
 }
