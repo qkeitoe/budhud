@@ -2,7 +2,7 @@
 {
     "TeamScoresPanel"
     {
-        "ypos"                                                      "40"
+        "ypos"                                                      "60"
 
         "bh_BlueScoreBG"
         {
@@ -80,5 +80,14 @@
         "ypos"                                                      "-1"
         "wide"                                                      "205"
         "tall"                                                      "105"
+    }
+
+    "KillStreakPlayer1Badge"
+    {
+        "ypos"                                                      "r-6969"
+        "wide"                                                      "0"
+        "tall"                                                      "0"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
     }
 }
