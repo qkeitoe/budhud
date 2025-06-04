@@ -7,7 +7,7 @@
 
     "CHudAccountPanel"
     {
-        "ypos"                                                      "c-3"
+        "ypos"                                                      "c97"
     }
 
     "CSpectatorTargetID"
