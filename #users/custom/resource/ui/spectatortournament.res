@@ -6,7 +6,7 @@
         {
             "chargeamount"
             {
-                "fgcolor"                                           "000 255 063 255"
+                "fgcolor"                                           "bh_yellow"
             }
         }
     }
