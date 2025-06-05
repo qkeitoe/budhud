@@ -13,6 +13,7 @@
     {
         "xpos"                                                      "-500"
         "ypos"                                                      "0"
+        "zpos"                                                      "1"
         "wide"                                                      "1000"
         "tall"                                                      "18"
         "visible"                                                   "1"
