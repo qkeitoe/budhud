@@ -22,7 +22,6 @@
 
     "bh_HealthBGDepleting"
     {
-        "visible"                                                   "0"
-        "enabled"                                                   "0"
+        "bgcolor_override"                                          "255 255 255 6"
     }
 }
