@@ -2,8 +2,7 @@
 {
     "HudItemEffectMeter"
     {
-        "xpos"                                                      "c125"
-        "ypos"                                                      "c140"
+        "ypos"                                                      "c89"
     }
 
     "ItemEffectMeterLabel"
@@ -17,15 +16,13 @@
 
     "ItemEffectMeter"
     {
-        "xpos"                                                      "20"
-        "wide"                                                      "28"
-        "textAlignment"                                             "north"
+        "wide"                                                      "48"
     }
 
     "ItemEffectMeter2"
     {
         "xpos"                                                      "52"
-        "wide"                                                      "28"
+        "wide"                                                      "48"
         "visible"                                                   "1"
         "enabled"                                                   "1"
     }

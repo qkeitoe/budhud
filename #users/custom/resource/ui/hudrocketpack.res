@@ -3,8 +3,7 @@
 // ============================================================================================== //
 // Pyro - Thermal Thruster
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-#base                                                               "huditemeffectmeter_base_meters_pos3_2bars.res"
+"#base"                                                             "huditemeffectmeter_base_meters_pos3_2bars.res"
 
 "Resource/UI/HudRocketPack.res"
 {

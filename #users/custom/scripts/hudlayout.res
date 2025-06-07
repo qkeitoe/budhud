@@ -7,7 +7,23 @@
 
     "CHudAccountPanel"
     {
-        "ypos"                                                      "c97"
+        "ypos"                                                      "c67"
+    }
+
+    "HudWeaponAmmo"
+    {
+        "xpos"                                                      "c-15"
+        "ypos"                                                      "c9"
+    }
+
+    "CMainTargetID"
+    {
+        "ypos"                                                      "c10"
+    }
+
+    "CSecondaryTargetID"
+    {
+        "ypos"                                                      "c105"
     }
 
     "CSpectatorTargetID"

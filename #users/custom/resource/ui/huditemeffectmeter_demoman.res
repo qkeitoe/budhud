@@ -3,6 +3,5 @@
 // ============================================================================================== //
 // Demoman - Heads count
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-#base                                                               "huditemeffectmeter_base_counters_pos2.res"
-#base                                                               "huditemeffectmeter_base_counters.res"
+"#base"                                                             "huditemeffectmeter_base_counters_pos2.res"
+"#base"                                                             "huditemeffectmeter_base_counters.res"

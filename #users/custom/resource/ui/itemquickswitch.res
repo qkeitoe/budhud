@@ -2,7 +2,8 @@
 {
     "ItemQuickSwitchPanel"
     {
-        "xpos"                                                      "c-143"
+        "xpos"                                                      "rs1.0"
+        "ypos"                                                      "c30"
         "wide"                                                      "275"
 
         "itemskv"
