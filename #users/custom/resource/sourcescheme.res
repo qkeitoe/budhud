@@ -33,6 +33,8 @@
         {
             "6"
             {
+                "name"                                              "Arial"
+                "tall"                                              "22"
                 "dropshadow"                                        "0"
                 "outline"                                           "1"
             }
