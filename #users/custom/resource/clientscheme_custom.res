@@ -5,7 +5,7 @@
         "bh_Health_Low"                                             "255 128 028 255"
         "bh_Health_Buff"                                            "000 255 063 255"
         "bh_Health_Pickup"                                          "000 255 063 255"
-        "bh_Ammo_Low"                                               "255 128 028 125"
+        "bh_Ammo_Low"                                               "255 128 028 255"
         "bh_AmmoBox_Low"                                            "255 128 028 125"
         "bh_HealthBox_Low"                                          "255 128 028 125"
         "bh_HealthBox_Buff"                                         "000 255 063 125"
