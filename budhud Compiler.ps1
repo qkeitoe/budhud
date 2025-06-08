@@ -104,7 +104,9 @@ try {
         'materials/vgui/replay/thumbnails/#users/',
         'materials/vgui/replay/thumbnails/menu_icons/menugif.*',
         'materials/vgui/replay/thumbnails/overlays/',
-        'materials/vgui/replay/thumbnails/speedometer/',
+        'materials/vgui/replay/thumbnails/speedometer/speedo*',
+        'materials/vgui/replay/thumbnails/speedometer/generate.ps1',
+        'materials/vgui/replay/thumbnails/speedometer/numbers.py',
         'resource/closecaption_/'
     )
     foreach ($fileOrFolder in $notRequiredFilesAndFolders) {
