@@ -2,12 +2,12 @@
 {
     "AmmoInClip"
     {
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 
     "AmmoInClipShadow"
     {
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 
     "AmmoInReserve"
@@ -22,11 +22,11 @@
 
     "AmmoNoClip"
     {
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 
     "AmmoNoClipShadow"
     {
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 }

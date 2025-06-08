@@ -10,12 +10,12 @@
     "PlayerStatusHealthValue"
     {
         "xpos"                                                      "99"
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 
     "PlayerStatusHealthValueShadow"
     {
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 
     "PlayerStatusHealthBonusImage"

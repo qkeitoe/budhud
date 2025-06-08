@@ -10,10 +10,10 @@
     "bh_ChargePin"
     {
         "fieldName"                                                 "bh_ChargePin"
-        "xpos"                                                      "c74"
+        "xpos"                                                      "c75"
         "ypos"                                                      "cs-0.5+85"
-        "wide"                                                      "65"
-        "tall"                                                      "23"
+        "wide"                                                      "63"
+        "tall"                                                      "21"
         "labelText"                                                 ""
     }
 
@@ -27,8 +27,8 @@
         "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
         "pin_to_sibling_corner"                                     "PIN_TOPLEFT"
-        "wide"                                                      "31"
-        "tall"                                                      "10"
+        "wide"                                                      "30"
+        "tall"                                                      "9"
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
     }
@@ -38,8 +38,8 @@
         "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_TOPRIGHT"
         "pin_to_sibling_corner"                                     "PIN_TOPRIGHT"
-        "wide"                                                      "31"
-        "tall"                                                      "10"
+        "wide"                                                      "30"
+        "tall"                                                      "9"
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
     }
@@ -49,8 +49,8 @@
         "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_BOTTOMLEFT"
         "pin_to_sibling_corner"                                     "PIN_BOTTOMLEFT"
-        "wide"                                                      "31"
-        "tall"                                                      "10"
+        "wide"                                                      "30"
+        "tall"                                                      "9"
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
     }
@@ -60,18 +60,18 @@
         "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_BOTTOMRIGHT"
         "pin_to_sibling_corner"                                     "PIN_BOTTOMRIGHT"
-        "wide"                                                      "31"
-        "tall"                                                      "10"
+        "wide"                                                      "30"
+        "tall"                                                      "9"
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
     }
 
     "IndividualChargesLabel"
     {
-        "xpos"                                                      "c74"
+        "xpos"                                                      "c75"
         "ypos"                                                      "cs-0.5+85"
-        "wide"                                                      "65"
-        "tall"                                                      "23"
+        "wide"                                                      "63"
+        "tall"                                                      "21"
         "labelText"                                                 ""
         "bgcolor_override"                                          "bh_Shadow"
         "proportionaltoparent"                                      "1"
@@ -81,7 +81,7 @@
     {
         "xpos"                                                      "c-20"
         "ypos"                                                      "c9"
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
     }
 
     "ChargeLabelShadow"
@@ -103,7 +103,7 @@
         "textAlignment"                                             "center"
         "dulltext"                                                  "0"
         "brighttext"                                                "0"
-        "font"                                                      "bh_Font32"
+        "font"                                                      "bh_Font30"
         "fgcolor"                                                   "bh_Shadow"
     }
 
