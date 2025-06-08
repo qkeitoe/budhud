@@ -21,6 +21,8 @@
     "PlayerStatusHealthBonusImage"
     {
         "xpos"                                                      "cs-0.5+50"
+        "wide"                                                      "28"
+        "tall"                                                      "28"
     }
 
     "bh_PlayerStatusPin"

@@ -8,12 +8,18 @@
 
 "Resource/UI/huditemeffectmeter_powerupbottle.res"
 {
+    "HudItemEffectMeter"
+    {
+        "wide"                                                      "40"
+        "tall"                                                      "24"
+    }
+
     "ItemEffectIcon"
     {
-        "xpos"                                                      "7"
+        "xpos"                                                      "0"
         "ypos"                                                      "0"
-        "wide"                                                      "27"
-        "tall"                                                      "27"
+        "wide"                                                      "24"
+        "tall"                                                      "24"
     }
 
     "ItemEffectMeterLabel"
@@ -27,6 +33,9 @@
 
     "ItemEffectMeterCount"
     {
-        "ypos"                                                      "27"
+        "xpos"                                                      "24"
+        "ypos"                                                      "0"
+        "tall"                                                      "24"
+        "wide"                                                      "16"
     }
 }

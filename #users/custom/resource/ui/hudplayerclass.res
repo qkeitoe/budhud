@@ -1,5 +1,10 @@
 "Resource/UI/HudPlayerClass.res"
 {
+    "PlayerStatusSpyOutlineImage"
+    {
+        "ypos"                                                      "c8"
+    }
+
     "PlayerStatusClassImage"
     {
         "alpha"                                                     "0"

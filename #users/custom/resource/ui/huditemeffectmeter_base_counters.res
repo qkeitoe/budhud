@@ -9,7 +9,7 @@
     "ItemEffectMeterLabel"
     {
         "xpos"                                                      "0"
-        "ypos"                                                      "15"
+        "ypos"                                                      "12"
         "font"                                                      "bh_Font8"
     }
 
@@ -25,7 +25,7 @@
     "ItemEffectMeterCount"
     {
         "xpos"                                                      "0"
-        "ypos"                                                      "0"
+        "ypos"                                                      "2"
         "wide"                                                      "41"
         "tall"                                                      "16"
         "pinCorner"                                                 "0"
