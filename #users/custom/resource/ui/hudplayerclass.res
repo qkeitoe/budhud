@@ -37,7 +37,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/1"
+        "image"                                                     "replay/thumbnails/speedometer/ones"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_white"
     }
@@ -55,7 +55,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/1"
+        "image"                                                     "replay/thumbnails/speedometer/ones"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_Shadow"
     }
@@ -73,7 +73,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/10"
+        "image"                                                     "replay/thumbnails/speedometer/tens"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_white"
     }
@@ -91,7 +91,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/10"
+        "image"                                                     "replay/thumbnails/speedometer/tens"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_Shadow"
     }
@@ -109,7 +109,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/100"
+        "image"                                                     "replay/thumbnails/speedometer/hundreds"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_white"
     }
@@ -127,7 +127,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/100"
+        "image"                                                     "replay/thumbnails/speedometer/hundreds"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_Shadow"
     }
@@ -145,7 +145,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/1000"
+        "image"                                                     "replay/thumbnails/speedometer/thousands"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_white"
     }
@@ -163,7 +163,7 @@
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "proportionaltoparent"                                      "1"
-        "image"                                                     "replay/thumbnails/speedometer/1000"
+        "image"                                                     "replay/thumbnails/speedometer/thousands"
         "scaleimage"                                                "1"
         "drawcolor"                                                 "bh_Shadow"
     }
