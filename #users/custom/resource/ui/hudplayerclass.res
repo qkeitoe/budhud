@@ -2,7 +2,7 @@
 {
     "PlayerStatusSpyOutlineImage"
     {
-        "ypos"                                                      "c8"
+        "ypos"                                                      "c5"
     }
 
     "PlayerStatusClassImage"

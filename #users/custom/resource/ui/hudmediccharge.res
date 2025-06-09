@@ -4,7 +4,7 @@
     {
         "fieldName"                                                 "bh_ResistPin"
         "xpos"                                                      "c-10"
-        "ypos"                                                      "c13"
+        "ypos"                                                      "c10"
     }
 
     "bh_ChargePin"
