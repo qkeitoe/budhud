@@ -15,7 +15,7 @@
         "ControlName"                                               "Label"
         "fieldName"                                                 "bh_SpeedometerPin"
         "xpos"                                                      "c0"
-        "ypos"                                                      "c120"
+        "ypos"                                                      "c115"
         "zpos"                                                      "0"
         "wide"                                                      "0"
         "tall"                                                      "0"
