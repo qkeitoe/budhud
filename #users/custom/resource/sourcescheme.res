@@ -31,10 +31,11 @@
     {
         "DefaultFixedOutline"
         {
-            "6"
+            "1"
             {
                 "name"                                              "Arial"
                 "tall"                                              "22"
+                "yres"                                              ""
                 "dropshadow"                                        "0"
                 "outline"                                           "1"
             }
