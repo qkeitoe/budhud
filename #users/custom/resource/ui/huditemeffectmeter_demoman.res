@@ -2,6 +2,7 @@
 // Affected Elements / Weapons
 // ============================================================================================== //
 // Demoman - Heads count
+// Soldier - Air Strike
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 "#base"                                                             "huditemeffectmeter_base_counters_pos2.res"
 "#base"                                                             "huditemeffectmeter_base_counters.res"
