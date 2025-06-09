@@ -39,7 +39,7 @@
         "proportionaltoparent"                                      "1"
         "image"                                                     "replay/thumbnails/speedometer/ones"
         "scaleimage"                                                "1"
-        "drawcolor"                                                 "bh_white"
+        "drawcolor"                                                 "bh_Speedometer"
     }
 
     "bh_Speedometer1Shadow"
@@ -75,7 +75,7 @@
         "proportionaltoparent"                                      "1"
         "image"                                                     "replay/thumbnails/speedometer/tens"
         "scaleimage"                                                "1"
-        "drawcolor"                                                 "bh_white"
+        "drawcolor"                                                 "bh_Speedometer"
     }
 
     "bh_Speedometer10Shadow"
@@ -111,7 +111,7 @@
         "proportionaltoparent"                                      "1"
         "image"                                                     "replay/thumbnails/speedometer/hundreds"
         "scaleimage"                                                "1"
-        "drawcolor"                                                 "bh_white"
+        "drawcolor"                                                 "bh_Speedometer"
     }
 
     "bh_Speedometer100Shadow"
@@ -147,7 +147,7 @@
         "proportionaltoparent"                                      "1"
         "image"                                                     "replay/thumbnails/speedometer/thousands"
         "scaleimage"                                                "1"
-        "drawcolor"                                                 "bh_white"
+        "drawcolor"                                                 "bh_Speedometer"
     }
 
     "bh_Speedometer1000Shadow"
