@@ -9,12 +9,15 @@
     {
         "NumPipesLabel"
         {
+            "xpos"                                                  "cs-0.5"
             "ypos"                                                  "c82"
+            "textAlignment"                                         "center"
             "font"                                                  "bh_Font20"
         }
 
         "NumPipesLabelDropShadow"
         {
+            "textAlignment"                                         "center"
             "font"                                                  "bh_Font20"
         }
     }
@@ -23,12 +26,15 @@
     {
         "NumPipesLabel"
         {
+            "xpos"                                                  "cs-0.5"
             "ypos"                                                  "c82"
+            "textAlignment"                                         "center"
             "font"                                                  "bh_Font20"
         }
 
         "NumPipesLabelDropShadow"
         {
+            "textAlignment"                                         "center"
             "font"                                                  "bh_Font20"
         }
     }
