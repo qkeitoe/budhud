@@ -3,15 +3,4 @@
 // ============================================================================================== //
 // Killstreak indicator
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-"Resource/UI/huditemeffectmeter_killstreak.res"
-{
-    "HudItemEffectMeter"
-    {
-        "ypos"                                                      "r-6969"
-        "wide"                                                      "0"
-        "tall"                                                      "0"
-        "visible"                                                   "0"
-        "enabled"                                                   "0"
-    }
-}
+"#base"                                                             "huditemeffectmeter_base_counters_pos1.res"
