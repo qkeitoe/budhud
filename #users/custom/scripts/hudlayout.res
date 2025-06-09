@@ -36,4 +36,9 @@
         "ypos"                                                      "0"
         "tall"                                                      "f0"
     }
+
+    "DisguiseStatus"
+    {
+        "xpos"                                                      "103"
+    }
 }
