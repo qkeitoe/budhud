@@ -7,11 +7,11 @@
 
     "AccountValue"
     {
-        "font"                                                      "bh_Font20"
+        "font"                                                      "bh_Font18"
     }
 
     "AccountValueShadow"
     {
-        "font"                                                      "bh_Font20"
+        "font"                                                      "bh_Font18"
     }
 }

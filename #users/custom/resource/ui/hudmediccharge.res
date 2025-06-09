@@ -79,7 +79,7 @@
 
     "ChargeLabel"
     {
-        "xpos"                                                      "c-20"
+        "xpos"                                                      "c-10"
         "ypos"                                                      "c9"
         "font"                                                      "bh_Font30"
     }
