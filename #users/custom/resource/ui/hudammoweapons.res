@@ -2,7 +2,7 @@
 {
     "AmmoInClip"
     {
-        "xpos"                                                      "cs-0.5"
+        "xpos"                                                      "cs-0.5-10"
         "font"                                                      "bh_Font30"
     }
 
@@ -13,7 +13,7 @@
 
     "AmmoInReserve"
     {
-        "xpos"                                                      "c20"
+        "xpos"                                                      "c10"
         "font"                                                      "bh_Font18"
     }
 

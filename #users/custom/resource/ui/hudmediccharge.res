@@ -10,7 +10,7 @@
     "bh_ChargePin"
     {
         "fieldName"                                                 "bh_ChargePin"
-        "xpos"                                                      "c75"
+        "xpos"                                                      "c85"
         "ypos"                                                      "cs-0.5+85"
         "wide"                                                      "63"
         "tall"                                                      "21"
@@ -68,8 +68,9 @@
 
     "IndividualChargesLabel"
     {
-        "xpos"                                                      "c75"
-        "ypos"                                                      "cs-0.5+85"
+        "pin_to_sibling"                                            "bh_ChargePin"
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
         "wide"                                                      "63"
         "tall"                                                      "21"
         "labelText"                                                 ""
