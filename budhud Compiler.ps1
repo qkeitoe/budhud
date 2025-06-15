@@ -57,7 +57,7 @@ try {
 
     Write-Task 'Auto-compiling supported files'
 
-    & ./budhud-compiler.exe -s -m -i 'resource', 'scripts' -o "$budhudCompiled/resource", "$budhudCompiled/scripts"
+    & ./budhud-compiler.exe -s -m -i 'resource' 'scripts' -o "$budhudCompiled/resource" "$budhudCompiled/scripts"
 
     if ($lastexitcode -ne 0) {
         Write-Failed
