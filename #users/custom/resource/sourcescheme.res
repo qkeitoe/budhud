@@ -33,8 +33,8 @@
         {
             "1"
             {
-                "name"                                              "Arial"
-                "tall"                                              "22"
+                "name"                                              "Lato Semibold"
+                "tall"                                              "23"
                 "yres"                                              ""
                 "dropshadow"                                        "0"
                 "outline"                                           "1"
