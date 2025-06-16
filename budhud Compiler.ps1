@@ -14,8 +14,12 @@ function Write-Task {
     Write-Host $Task' ... ' -NoNewline
 }
 
+$oldErrorActionPreference = $ErrorActionPreference
+$oldProgressPreference = $ProgressPreference
+
 try {
     $ErrorActionPreference = 'Stop'
+    $ProgressPreference = 'SilentlyContinue'
 
     $budhud = Resolve-Path $PSScriptRoot
     Set-Location $budhud
@@ -149,5 +153,8 @@ catch {
     Write-Host "An error occurred: $_" -ForegroundColor Red
 }
 finally {
+    $ErrorActionPreference = $oldErrorActionPreference
+    $ProgressPreference = $oldProgressPreference
+
     Read-Host 'Press Enter to exit'
 }
