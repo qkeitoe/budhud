@@ -2,6 +2,8 @@
 {
     "StatData"
     {
+        "ypos"                                                      "-40"
+
         "NonInteractiveHeaders"
         {
             "ypos"                                                  "r-6969"
@@ -23,6 +25,7 @@
         "AveragesLabel"
         {
             "ypos"                                                  "190"
+            "font"                                                  "bh_Font14"
         }
 
         "ClassBarBG1A"
