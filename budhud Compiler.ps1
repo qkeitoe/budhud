@@ -121,6 +121,20 @@ try {
 
     Write-Done
 
+    Write-Task 'Cleaning up hudanimations_manifest...'
+
+    $hudanimations_manifest = "$budhudCompiled/scripts/hudanimations_manifest.txt"
+    $linesToRemove = @(5, 7, 9, 11, 12, 13, 14)
+
+    $lines = Get-Content $hudanimations_manifest
+    $filteredLines = $lines | Select-Object -Index (0..($lines.Count - 1)) | Where-Object {
+        $index = $lines.IndexOf($_)
+        $index + 1 -notin $linesToRemove
+    }
+    $filteredLines | Set-Content $hudanimations_manifest
+
+    Write-Done
+
     do {
         $response = Read-Host "Create an archive with the compiled HUD? (Y/N) [default: N]"
 
