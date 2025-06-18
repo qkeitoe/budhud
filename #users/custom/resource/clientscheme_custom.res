@@ -21,6 +21,9 @@
         "bh_Speedometer"                                            "175 175 175 255"
         //
         "bh_BG125"                                                  "000 000 000 125"
+        "bh_BGLight"                                                "200 200 200 255"
+        //
+        "bh_byellow"                                                "255 255 000 255"
     }
 
     "BaseSettings"

@@ -52,4 +52,10 @@
         "NormalY"                                                   "150"
         "EngineerY"                                                 "360"
     }
+
+    "HudDeathNotice"
+    {
+        "BaseBackgroundColor"                                       "bh_BG125"
+        "LocalBackgroundColor"                                      "bh_BGLight"
+    }
 }
