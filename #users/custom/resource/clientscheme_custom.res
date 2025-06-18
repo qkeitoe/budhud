@@ -19,6 +19,8 @@
         "bh_TargetID_Buff"                                          "000 255 063 255"
         //
         "bh_Speedometer"                                            "175 175 175 255"
+        //
+        "bh_BG125"                                                  "000 000 000 125"
     }
 
     "BaseSettings"

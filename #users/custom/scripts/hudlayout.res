@@ -41,4 +41,15 @@
     {
         "xpos"                                                      "103"
     }
+
+    "bh_BuildPin"
+    {
+        "ypos"                                                      "130"
+    }
+
+    "HudAchievementTracker"
+    {
+        "NormalY"                                                   "150"
+        "EngineerY"                                                 "360"
+    }
 }
