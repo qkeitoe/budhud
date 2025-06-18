@@ -2,7 +2,8 @@
 {
     "TeamScoresPanel"
     {
-        "ypos"                                                      "60"
+        "ypos"                                                      "57"
+        "wide"                                                      "224"
 
         "bh_BlueScoreBG"
         {
@@ -66,6 +67,18 @@
             "textAlignment"                                         "east"
             "font"                                                  "bh_Font24"
             "fgcolor"                                               "bh_Shadow"
+        }
+
+        "BlueTeamScore"
+        {
+            "xpos"                                                  "cs-1.0-3"
+            "proportionaltoparent"                                  "1"
+        }
+
+        "RedTeamScore"
+        {
+            "xpos"                                                  "c3"
+            "proportionaltoparent"                                  "1"
         }
     }
 
