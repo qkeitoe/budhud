@@ -80,6 +80,7 @@
         "FrameBorder"
         {
             "backgroundtype"                                        "0"
+            "proportional_scalar"                                   "0.5"
 
             "Left"
             {
@@ -120,6 +121,8 @@
 
         "RaisedBorder"
         {
+            "proportional_scalar"                                   "0.5"
+
             "Left"
             {
                 "1"
@@ -155,6 +158,8 @@
 
         "ButtonKeyFocusBorder"
         {
+            "proportional_scalar"                                   "0.5"
+
             "Left"
             {
                 "1"
@@ -214,6 +219,8 @@
 
         "ButtonDepressedBorder"
         {
+            "proportional_scalar"                                   "0.5"
+
             "Left"
             {
                 "1"
@@ -249,6 +256,8 @@
 
         "TabActiveBorder"
         {
+            "proportional_scalar"                                   "0.5"
+
             "Left"
             {
                 "1"
