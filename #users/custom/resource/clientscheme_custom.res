@@ -24,6 +24,7 @@
         "bh_BGLight"                                                "200 200 200 255"
         //
         "bh_byellow"                                                "255 255 000 255"
+        "bh_magenta"                                                "200 0 255 255"
     }
 
     "BaseSettings"

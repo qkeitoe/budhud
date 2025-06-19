@@ -13,14 +13,17 @@
         {
             "respawntime"
             {
-                "xpos"                                              "125"
-                "textAlignment"                                     "east"
-                "fgcolor"                                           "bh_yellow"
+                "fgcolor"                                           "bh_magenta"
             }
 
             "chargeamount"
             {
-                "fgcolor"                                           "bh_bgreen"
+                "fgcolor"                                           "bh_byellow"
+            }
+
+            "chargeamountBG"
+            {
+                "xpos"                                              "0"
             }
         }
     }
