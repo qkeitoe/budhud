@@ -71,14 +71,26 @@
 
         "BlueTeamScore"
         {
-            "xpos"                                                  "cs-1.0-3"
+            "xpos"                                                  "cs-1.0"
+            "textinsetx"                                            "10"
             "proportionaltoparent"                                  "1"
+        }
+
+        "BlueTeamScoreDropshadow"
+        {
+            "textinsetx"                                            "10"
         }
 
         "RedTeamScore"
         {
-            "xpos"                                                  "c3"
+            "xpos"                                                  "c0"
+            "textinsetx"                                            "10"
             "proportionaltoparent"                                  "1"
+        }
+
+        "RedTeamScoreDropShadow"
+        {
+            "textinsetx"                                            "10"
         }
     }
 
