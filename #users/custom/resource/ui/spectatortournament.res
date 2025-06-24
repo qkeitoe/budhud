@@ -4,26 +4,84 @@
 {
     "specgui"
     {
-        "team1_player_delta_y"                                      "-17"
-        "team2_player_delta_y"                                      "17"
-        "team1_player_base_y"                                       "275"
-        "team2_player_base_y"                                       "310"
+        "team1_player_delta_y"                                      "-13"
+        "team2_player_delta_y"                                      "13"
+        "team1_player_base_y"                                       "279"
+        "team2_player_base_y"                                       "306"
 
         "playerpanels_kv"
         {
+            "wide"                                                  "125"
+            "tall"                                                  "12"
+
+            "playername"
+            {
+                "font"                                              "bh_Font8"
+                "xpos"                                              "34"
+                "wide"                                              "66"
+                "tall"                                              "12"
+            }
+
+            "classimage"
+            {
+                "wide"                                              "12"
+                "tall"                                              "12"
+            }
+
+            "classimagebg"
+            {
+                "wide"                                              "12"
+                "tall"                                              "12"
+            }
+
+            "HealthIcon"
+            {
+                "xpos"                                              "12"
+                "wide"                                              "20"
+                "tall"                                              "12"
+            }
+
+            "bh_VerticalLine"
+            {
+                "ypos"                                              "r-6969"
+                "wide"                                              "0"
+                "tall"                                              "0"
+                "visible"                                           "0"
+                "enabled"                                           "0"
+            }
+
+            "ReadyBG"
+            {
+                "wide"                                              "12"
+                "tall"                                              "12"
+            }
+
             "respawntime"
             {
+                "font"                                              "bh_Font10"
+                "xpos"                                              "12"
+                "ypos"                                              "0"
+                "wide"                                              "20"
+                "tall"                                              "12"
                 "fgcolor"                                           "bh_magenta"
             }
 
             "chargeamount"
             {
+                "font"                                              "bh_Font10"
+                "xpos"                                              "100"
+                "ypos"                                              "0"
+                "wide"                                              "23"
+                "tall"                                              "12"
                 "fgcolor"                                           "bh_byellow"
             }
 
             "chargeamountBG"
             {
+                "font"                                              "bh_Font10"
                 "xpos"                                              "0"
+                "wide"                                              "23"
+                "tall"                                              "12"
             }
         }
     }
