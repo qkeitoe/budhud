@@ -50,6 +50,10 @@
 
     "scores"
     {
+        "medal_width"                                               "28"
+        "avatar_width"                                              "28"
+        "name_width"                                                "120"
+        "name_width_short"                                          "120"
         "score_width"                                               "20"
     }
 
