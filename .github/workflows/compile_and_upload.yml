@@ -1,0 +1,65 @@
+name: Compile and Release
+
+on:
+  push:
+    branches: [ "personal" ]
+
+jobs:
+  compile-and-release:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate dynamic tag
+        id: tag
+        shell: bash
+        run: |
+          TAG="personal_$(date +'%Y.%m.%d')"
+          echo "Generated tag: $TAG"
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+
+      - name: Run Compiler
+        shell: pwsh
+        run: |
+          try {
+            . 'budhud Compiler.ps1'
+          }
+          catch {
+            Write-Error "Compiler script failed: $_"
+            exit 1
+          }
+
+          $compiledPath = 'budhud_compiled'
+          try {
+            if (Test-Path -Path $compiledPath -PathType Container) {
+              Compress-Archive -Path $compiledPath -DestinationPath 'budhud_compiled.zip'
+            } else {
+              Write-Error "Compiled folder '$compiledPath' not found!"
+              exit 1
+            }
+          }
+          catch {
+            Write-Error "Archive creation failed: $_"
+            exit 1
+          }
+
+      - name: Verify ZIP file exists
+        shell: pwsh
+        run: |
+          $zipPath = 'budhud_compiled.zip'
+          if (-not (Test-Path -Path $zipPath -PathType Leaf)) {
+            Write-Error "ZIP file '$zipPath' not found!"
+            exit 1
+          }
+
+      - name: Create or Update Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          generate_release_notes: true
+          files: budhud_compiled.zip
+          overwrite_files: true
+          draft: false
+          prerelease: false
+          make_latest: true
