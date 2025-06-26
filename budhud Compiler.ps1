@@ -134,34 +134,6 @@ try {
     $filteredLines | Set-Content $hudanimations_manifest
 
     Write-Done
-
-    do {
-        $response = Read-Host "Create an archive with the compiled HUD? (Y/N) [default: N]"
-
-        if ([string]::IsNullOrWhiteSpace($response)) {
-            $response = 'N'
-        }
-
-        switch ($response.ToUpper()) {
-            'Y' {
-                Write-Task "Creating archive..." -ForegroundColor Green
-
-                Compress-Archive -Path $budhudCompiled -DestinationPath "$budhudCompiled.zip"
-
-                Write-Done
-
-                break
-            }
-            'N' {
-                Write-Host "Archive creation canceled." -ForegroundColor Yellow
-
-                break
-            }
-            default {
-                Write-Host "Invalid input. Please enter Y or N." -ForegroundColor Red
-            }
-        }
-    } while ($response -notmatch '^[YNyn]$')
 }
 catch {
     Write-Host "An error occurred: $_" -ForegroundColor Red
