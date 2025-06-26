@@ -23,7 +23,7 @@ jobs:
         shell: pwsh
         run: |
           try {
-            . 'budhud Compiler.ps1'
+            . './budhud Compiler.ps1'
           }
           catch {
             Write-Error "Compiler script failed: $_"
