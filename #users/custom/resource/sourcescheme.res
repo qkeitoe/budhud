@@ -21,6 +21,12 @@
         //
         "Frame.OutOfFocusBGColor"                                   "bh_Theme_BG20"
         //
+        "ListPanel.SelectedTextColor"                               "bh_Theme_TextAccent"
+        "ListPanel.SelectedBgColor"                                 "TFOrangeBright"
+        "ListPanel.SelectedOutOfFocusBgColor"                       "TFOrangeBright"
+        //
+        "Menu.ArmedTextColor"                                       "bh_Theme_TextAccent"
+        //
         "PropertySheet.TextColor"                                   "bh_white_t"
         "PropertySheet.SelectedTextColor"                           "bh_white"
         //
