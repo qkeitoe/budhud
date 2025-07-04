@@ -10,12 +10,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate dynamic tag
         id: tag
         shell: bash
         run: |
-          TAG="personal_$(date +'%Y.%m.%d')"
+          COMMIT_HASH=$(git rev-parse --short HEAD)
+          TAG="personal_${COMMIT_HASH}"
           echo "Generated tag: $TAG"
           echo "tag=$TAG" >> $GITHUB_OUTPUT
 
