@@ -17,8 +17,9 @@ jobs:
         id: tag
         shell: bash
         run: |
+          COMMIT_DATE=$(git show -s --format=%cd --date=format:'%Y.%m.%d' HEAD)
           COMMIT_HASH=$(git rev-parse --short HEAD)
-          TAG="personal_${COMMIT_HASH}"
+          TAG="personal_${COMMIT_DATE}_${COMMIT_HASH}"
           echo "Generated tag: $TAG"
           echo "tag=$TAG" >> $GITHUB_OUTPUT
 
