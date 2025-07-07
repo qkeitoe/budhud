@@ -11,7 +11,7 @@
 
     "WaveCountLabel"
     {
-        "ypos"                                                      "17"
+        "ypos"                                                      "16"
         "tall"                                                      "12"
     }
 
@@ -35,11 +35,11 @@
 
     "ProgressBar"
     {
-        "ypos"                                                      "17"
+        "ypos"                                                      "16"
     }
 
     "bh_ProgressBarBG"
     {
-        "ypos"                                                      "17"
+        "ypos"                                                      "16"
     }
 }

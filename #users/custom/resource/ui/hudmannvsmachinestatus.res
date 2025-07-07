@@ -2,52 +2,52 @@
 {
     "bh_FixOverlap"
     {
-        "ypos_minmode"                                              "68"
+        "ypos_minmode"                                              "67"
     }
 
     "WaveCompleteSummaryPanel"
     {
-        "ypos"                                                      "159"
+        "ypos"                                                      "158"
     }
 
     "BossStatusPanel"
     {
-        "ypos"                                                      "19"
+        "ypos"                                                      "18"
     }
 
     "InWorldCurrencyPanel"
     {
-        "ypos"                                                      "r5"
+        "ypos"                                                      "r6"
     }
 
     "WarningSwoop"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
     }
 
     "UpgradeLevelContainer"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
     }
 
     "VictorySplash"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
     }
 
     "VictoryPanelContainer"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
     }
 
     "WaveLossPanel"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
     }
 
     "ServerChangeMessage"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
 
         "Background"
         {

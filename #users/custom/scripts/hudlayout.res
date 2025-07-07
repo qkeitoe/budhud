@@ -66,7 +66,7 @@
 
     "HudMannVsMachineStatus"
     {
-        "ypos"                                                      "-14"
-        "tall"                                                      "494"
+        "ypos"                                                      "-13"
+        "tall"                                                      "493"
     }
 }
