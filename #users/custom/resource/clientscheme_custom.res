@@ -47,4 +47,43 @@
             }
         }
     }
+
+    "Borders"
+    {
+        "bh_b_red_darker"
+        {
+            "bordertype"                                            "scalable_image"
+            "backgroundtype"                                        "2"
+            "color"                                                 "bh_red"
+            "image"                                                 "replay/thumbnails/general_icons/scalable_rect_darker"
+            "src_corner_height"                                     "24"
+            "src_corner_width"                                      "24"
+            "draw_corner_width"                                     "5"
+            "draw_corner_height"                                    "5"
+        }
+
+        "bh_b_blue_darker"
+        {
+            "bordertype"                                            "scalable_image"
+            "backgroundtype"                                        "2"
+            "color"                                                 "bh_blue"
+            "image"                                                 "replay/thumbnails/general_icons/scalable_rect_darker"
+            "src_corner_height"                                     "24"
+            "src_corner_width"                                      "24"
+            "draw_corner_width"                                     "5"
+            "draw_corner_height"                                    "5"
+        }
+
+        "bh_b_dgray_darker"
+        {
+            "bordertype"                                            "scalable_image"
+            "backgroundtype"                                        "2"
+            "color"                                                 "bh_dgray"
+            "image"                                                 "replay/thumbnails/general_icons/scalable_rect_darker"
+            "src_corner_height"                                     "24"
+            "src_corner_width"                                      "24"
+            "draw_corner_width"                                     "5"
+            "draw_corner_height"                                    "5"
+        }
+    }
 }

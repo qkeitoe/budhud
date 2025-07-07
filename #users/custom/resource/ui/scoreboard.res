@@ -5,15 +5,15 @@
         "ControlName"                                               "ImagePanel"
         "fieldName"                                                 "bh_MainBG"
         "xpos"                                                      "cs-0.5"
-        "ypos"                                                      "95"
-        "zpos"                                                      "-2"
+        "ypos"                                                      "94"
+        "zpos"                                                      "-5"
         "wide"                                                      "600"
-        "tall"                                                      "271"
+        "tall"                                                      "272"
         "autoResize"                                                "0"
         "pinCorner"                                                 "0"
         "visible"                                                   "1"
         "enabled"                                                   "1"
-        "border"                                                    "BackpackItemGrayedOut"
+        "border"                                                    "bh_b_dgray_darker"
         "draw_corner_width"                                         "0"
         "draw_corner_height"                                        "0"
     }
@@ -48,6 +48,16 @@
         "tall"                                                      "217"
     }
 
+    "bh_BGscoreBlue"
+    {
+        "border"                                                    "bh_b_blue_darker"
+    }
+
+    "bh_BGscoreRed"
+    {
+        "border"                                                    "bh_b_red_darker"
+    }
+
     "scores"
     {
         "medal_width"                                               "28"
@@ -60,6 +70,11 @@
     "bh_LocalStatsPin"
     {
         "ypos"                                                      "r115"
+    }
+
+    "bh_LocalStatsBG1"
+    {
+        "border"                                                    "bh_b_dgray_darker"
     }
 
     "LocalPlayerStatsPanel"
