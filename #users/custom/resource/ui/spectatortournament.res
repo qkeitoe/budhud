@@ -4,10 +4,10 @@
 {
     "specgui"
     {
-        "team1_player_delta_y"                                      "-13"
-        "team2_player_delta_y"                                      "13"
-        "team1_player_base_y"                                       "279"
-        "team2_player_base_y"                                       "306"
+        "team1_player_delta_y"                                      "13"
+        "team2_player_delta_y"                                      "-13"
+        "team1_player_base_y"                                       "346"
+        "team2_player_base_y"                                       "319"
 
         "playerpanels_kv"
         {

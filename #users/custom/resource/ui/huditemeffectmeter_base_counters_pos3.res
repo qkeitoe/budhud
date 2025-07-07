@@ -2,7 +2,7 @@
 {
     "HudItemEffectMeter"
     {
-        "xpos"                                                      "0"
-        "ypos"                                                      "rs1.0-3"
+        "xpos"                                                      "c98"
+        "ypos"                                                      "c102"
     }
 }

@@ -10,16 +10,16 @@
 {
     "HudItemEffectMeter"
     {
-        "wide"                                                      "40"
-        "tall"                                                      "24"
+        "wide"                                                      "24"
+        "tall"                                                      "16"
     }
 
     "ItemEffectIcon"
     {
         "xpos"                                                      "0"
         "ypos"                                                      "0"
-        "wide"                                                      "24"
-        "tall"                                                      "24"
+        "wide"                                                      "16"
+        "tall"                                                      "16"
     }
 
     "ItemEffectMeterLabel"
@@ -33,9 +33,9 @@
 
     "ItemEffectMeterCount"
     {
-        "xpos"                                                      "24"
+        "xpos"                                                      "16"
         "ypos"                                                      "0"
-        "tall"                                                      "24"
-        "wide"                                                      "16"
+        "tall"                                                      "16"
+        "wide"                                                      "8"
     }
 }

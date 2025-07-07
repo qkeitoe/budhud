@@ -77,6 +77,15 @@
         "border"                                                    "bh_b_dgray_darker"
     }
 
+    "mapname"
+    {
+        "xpos"                                                      "-460"
+        "ypos"                                                      "-34"
+        "wide"                                                      "137"
+        "tall"                                                      "20"
+        "allcaps"                                                   "1"
+    }
+
     "LocalPlayerStatsPanel"
     {
         "ypos"                                                      "1"
