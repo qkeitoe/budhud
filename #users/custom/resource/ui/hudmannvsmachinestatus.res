@@ -12,7 +12,7 @@
 
     "BossStatusPanel"
     {
-        "ypos"                                                      "18"
+        "ypos"                                                      "0"
     }
 
     "InWorldCurrencyPanel"
@@ -26,21 +26,6 @@
     }
 
     "UpgradeLevelContainer"
-    {
-        "ypos"                                                      "13"
-    }
-
-    "VictorySplash"
-    {
-        "ypos"                                                      "13"
-    }
-
-    "VictoryPanelContainer"
-    {
-        "ypos"                                                      "13"
-    }
-
-    "WaveLossPanel"
     {
         "ypos"                                                      "13"
     }
