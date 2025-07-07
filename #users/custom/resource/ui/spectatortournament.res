@@ -94,7 +94,7 @@
         "tall"                                                      "16"
         "textAlignment"                                             "center"
         "font"                                                      "bh_Font16"
-        "bgcolor_override"                                          "bh_BG125"
+        "bgcolor_override"                                          "bh_BGAverage"
 
         "if_mvm"
         {

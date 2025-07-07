@@ -41,5 +41,6 @@
     "bh_ProgressBarBG"
     {
         "ypos"                                                      "16"
+        "fillcolor"                                                 "bh_BGAverage"
     }
 }

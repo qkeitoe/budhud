@@ -8,11 +8,11 @@
     {
         "TimePanelValue"
         {
-            "bgcolor_override"                                      "bh_BGStandard"
+            "bgcolor_override"                                      "bh_BG125"
 
             "if_match"
             {
-                "bgcolor_override"                                  "bh_BGStandard"
+                "bgcolor_override"                                  "bh_BG125"
             }
         }
     }
@@ -21,7 +21,7 @@
     {
         "Background"
         {
-            "fillcolor"                                             "bh_BG125"
+            "fillcolor"                                             "bh_BGAverage"
         }
     }
 

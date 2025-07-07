@@ -22,6 +22,8 @@
             "enabled"                                               "1"
             "bgcolor_override"                                      "bh_orange"
             "border"                                                "BackpackItemGrayedOut"
+            "paintBorder"                                           "0"
+            "alpha"                                                 "170"
         }
 
         "SapperIcon"
@@ -30,6 +32,8 @@
             "wide"                                                  "27"
             "tall"                                                  "27"
             "proportionaltoparent"                                  "1"
+            "paintBorder"                                           "0"
+            "alpha"                                                 "170"
         }
     }
 }
