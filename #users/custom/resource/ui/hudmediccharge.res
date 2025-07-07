@@ -85,11 +85,11 @@
         "font"                                                      "bh_Font32"
     }
 
-    "ChargeLabelShadow"
+    "bh_ChargeLabelShadow"
     {
         "pin_to_sibling"                                            "ChargeLabel"
         "ControlName"                                               "CExLabel"
-        "fieldName"                                                 "ChargeLabelShadow"
+        "fieldName"                                                 "bh_ChargeLabelShadow"
         "xpos"                                                      "-1"
         "ypos"                                                      "-1"
         "zpos"                                                      "2"
