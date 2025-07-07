@@ -47,6 +47,11 @@
         "ypos"                                                      "130"
     }
 
+    "BuildingStatus_Spy"
+    {
+        "pin_to_sibling"                                            "bh_BuildPin"
+    }
+
     "HudAchievementTracker"
     {
         "NormalY"                                                   "150"
