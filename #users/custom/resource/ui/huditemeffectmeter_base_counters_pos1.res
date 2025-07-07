@@ -3,5 +3,6 @@
     "HudItemEffectMeter"
     {
         "xpos"                                                      "r90"
+        "ypos"                                                      "c85"
     }
 }
