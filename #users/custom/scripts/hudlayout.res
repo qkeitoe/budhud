@@ -63,4 +63,10 @@
         "BaseBackgroundColor"                                       "bh_BG125"
         "LocalBackgroundColor"                                      "bh_BGLight"
     }
+
+    "HudMannVsMachineStatus"
+    {
+        "ypos"                                                      "-14"
+        "tall"                                                      "494"
+    }
 }

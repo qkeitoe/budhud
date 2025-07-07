@@ -1,17 +1,54 @@
 "Resource/UI/HudMannVsMachineStatus.res"
 {
-    "WaveStatusPanel"
+    "bh_FixOverlap"
     {
-        "ypos"                                                      "-14"
+        "ypos_minmode"                                              "68"
     }
 
     "WaveCompleteSummaryPanel"
     {
-        "ypos"                                                      "145"
+        "ypos"                                                      "159"
+    }
+
+    "BossStatusPanel"
+    {
+        "ypos"                                                      "19"
+    }
+
+    "InWorldCurrencyPanel"
+    {
+        "ypos"                                                      "r5"
+    }
+
+    "WarningSwoop"
+    {
+        "ypos"                                                      "14"
+    }
+
+    "UpgradeLevelContainer"
+    {
+        "ypos"                                                      "14"
+    }
+
+    "VictorySplash"
+    {
+        "ypos"                                                      "14"
+    }
+
+    "VictoryPanelContainer"
+    {
+        "ypos"                                                      "14"
+    }
+
+    "WaveLossPanel"
+    {
+        "ypos"                                                      "14"
     }
 
     "ServerChangeMessage"
     {
+        "ypos"                                                      "14"
+
         "Background"
         {
             "ypos"                                                  "r-6969"
