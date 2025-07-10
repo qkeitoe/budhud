@@ -24,4 +24,14 @@
     {
         "bgcolor_override"                                          "255 255 255 6"
     }
+
+    "PlayerStatusHealthValue"
+    {
+        "tall"                                                      "17"
+    }
+
+    "bh_PlayerStatusHealthValueShadow_Override"
+    {
+        "tall"                                                      "17"
+    }
 }

@@ -2,14 +2,12 @@
 {
     "bh_ResistPin"
     {
-        "fieldName"                                                 "bh_ResistPin"
         "xpos"                                                      "c-10"
         "ypos"                                                      "c10"
     }
 
     "bh_ChargePin"
     {
-        "fieldName"                                                 "bh_ChargePin"
         "xpos"                                                      "c84"
         "ypos"                                                      "cs-0.5+85"
         "wide"                                                      "65"
@@ -24,7 +22,6 @@
 
     "ChargeMeter1"
     {
-        "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_TOPLEFT"
         "pin_to_sibling_corner"                                     "PIN_TOPLEFT"
         "wide"                                                      "31"
@@ -35,7 +32,6 @@
 
     "ChargeMeter2"
     {
-        "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_TOPRIGHT"
         "pin_to_sibling_corner"                                     "PIN_TOPRIGHT"
         "wide"                                                      "31"
@@ -46,7 +42,6 @@
 
     "ChargeMeter3"
     {
-        "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_BOTTOMLEFT"
         "pin_to_sibling_corner"                                     "PIN_BOTTOMLEFT"
         "wide"                                                      "31"
@@ -57,7 +52,6 @@
 
     "ChargeMeter4"
     {
-        "pin_to_sibling"                                            "bh_ChargePin"
         "pin_corner_to_sibling"                                     "PIN_BOTTOMRIGHT"
         "pin_to_sibling_corner"                                     "PIN_BOTTOMRIGHT"
         "wide"                                                      "31"
@@ -110,7 +104,6 @@
 
     "ResistIcon"
     {
-        "pin_to_sibling"                                            "bh_ResistPin"
         "wide"                                                      "20"
         "tall"                                                      "20"
         "alpha"                                                     "175"
