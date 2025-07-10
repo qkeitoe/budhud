@@ -88,44 +88,25 @@
 
     "ReinforcementsLabel"
     {
-        "xpos"                                                      "5"
-        "ypos"                                                      "3"
-        "auto_wide_tocontents"                                      "1"
+        "xpos"                                                      "2"
+        "ypos"                                                      "0"
         "tall"                                                      "16"
-        "textAlignment"                                             "center"
-        "font"                                                      "bh_Font16"
-        "bgcolor_override"                                          "bh_BGAverage"
+        "textAlignment"                                             "west"
+        "font"                                                      "bh_Font16DropShadow"
+        "fgcolor_override"                                          "bh_byellow"
 
         "if_mvm"
         {
-            "ypos"                                                  "3"
+            "ypos"                                                  "0"
         }
-    }
-
-    "bh_BuyBackLabelPin"
-    {
-        "ControlName"                                               "Label"
-        "fieldName"                                                 "bh_BuyBackLabelPin"
-        "xpos"                                                      "cs-0.5"
-        "ypos"                                                      "0"
-        "zpos"                                                      "0"
-        "wide"                                                      "100"
-        "tall"                                                      "0"
-        "visible"                                                   "1"
-        "enabled"                                                   "1"
-        "bgcolor_override"                                          "0 0 0 0"
     }
 
     "BuyBackLabel"
     {
-        "pin_to_sibling"                                            "bh_BuyBackLabelPin"
-        "pin_corner_to_sibling"                                     "PIN_CENTER_TOP"
-        "pin_to_sibling_corner"                                     "PIN_CENTER_TOP"
-        "xpos"                                                      "0"
+        "xpos"                                                      "cs-0.5"
         "ypos"                                                      "0"
-        "auto_wide_tocontents"                                      "1"
         "tall"                                                      "11"
-        "font"                                                      "bh_Font11"
-        "bgcolor_override"                                          "bh_BGAverage"
+        "font"                                                      "bh_Font11DropShadow"
+        "fgcolor"                                                   "bh_byellow"
     }
 }

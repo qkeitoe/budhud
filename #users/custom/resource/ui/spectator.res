@@ -8,12 +8,11 @@
 
     "ReinforcementsLabel"
     {
-        "xpos"                                                      "5"
-        "ypos"                                                      "3"
-        "auto_wide_tocontents"                                      "1"
+        "xpos"                                                      "2"
+        "ypos"                                                      "0"
         "tall"                                                      "16"
-        "textAlignment"                                             "center"
-        "font"                                                      "bh_Font16"
-        "bgcolor_override"                                          "bh_BGAverage"
+        "textAlignment"                                             "west"
+        "font"                                                      "bh_Font16DropShadow"
+        "fgcolor_override"                                          "bh_byellow"
     }
 }

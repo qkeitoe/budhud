@@ -46,6 +46,19 @@
                 "outline"                                           "0"
             }
         }
+
+        "bh_Font11DropShadow"
+        {
+            "1"
+            {
+                "name"                                              "Lato Semibold"
+                "tall"                                              "11"
+                "weight"                                            "500"
+                "antialias"                                         "1"
+                "dropshadow"                                        "1"
+                "outline"                                           "0"
+            }
+        }
     }
 
     "Borders"
