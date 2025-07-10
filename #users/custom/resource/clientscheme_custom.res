@@ -21,7 +21,7 @@
         "bh_Speedometer"                                            "175 175 175 255"
         //
         "bh_BG125"                                                  "000 000 000 125"
-        "bh_BGLight"                                                "200 200 200 255"
+        "bh_BGLighter"                                              "200 200 200 255"
         //
         "bh_byellow"                                                "255 255 000 255"
         "bh_magenta"                                                "200 0 255 255"

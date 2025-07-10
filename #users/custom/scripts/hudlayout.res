@@ -60,8 +60,8 @@
 
     "HudDeathNotice"
     {
-        "BaseBackgroundColor"                                       "bh_BGAverage"
-        "LocalBackgroundColor"                                      "bh_BGLight"
+        "BaseBackgroundColor"                                       "bh_BGDarker"
+        "LocalBackgroundColor"                                      "bh_BGLighter"
     }
 
     "HudMannVsMachineStatus"

@@ -8,11 +8,11 @@
     {
         "TimePanelValue"
         {
-            "bgcolor_override"                                      "bh_BG125"
+            "bgcolor_override"                                      "bh_BGStandard"
 
             "if_match"
             {
-                "bgcolor_override"                                  "bh_BG125"
+                "bgcolor_override"                                  "bh_BGStandard"
             }
         }
     }
@@ -21,7 +21,7 @@
     {
         "Background"
         {
-            "fillcolor"                                             "bh_BGAverage"
+            "fillcolor"                                             "bh_BG125"
         }
     }
 
@@ -29,8 +29,8 @@
     {
         "playerpanels_kv"
         {
-            "color_portrait_bg_red_dead"                            "bh_BG125"
-            "color_portrait_bg_blue_dead"                           "bh_BG125"
+            "color_portrait_bg_red_dead"                            "bh_BGStandard"
+            "color_portrait_bg_blue_dead"                           "bh_BGStandard"
 
             "respawntime"
             {
