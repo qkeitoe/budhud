@@ -27,7 +27,7 @@
 
     "UpgradeLevelContainer"
     {
-        "ypos"                                                      "13"
+        "ypos"                                                      "16"
     }
 
     "ServerChangeMessage"

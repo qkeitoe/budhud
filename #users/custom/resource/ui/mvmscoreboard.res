@@ -29,7 +29,7 @@
 
     "WaveStatusPanel"
     {
-        "ypos"                                                      "14"
+        "ypos"                                                      "13"
     }
 
     "bh_MvMPlayerBG1"

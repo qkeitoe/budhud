@@ -33,6 +33,11 @@
         "labelText"                                                 "%wave_count%"
     }
 
+    "SupportLabel"
+    {
+        "font"                                                      "bh_Font10DropShadow"
+    }
+
     "ProgressBar"
     {
         "ypos"                                                      "16"

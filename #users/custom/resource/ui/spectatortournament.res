@@ -101,4 +101,31 @@
             "ypos"                                                  "3"
         }
     }
+
+    "bh_BuyBackLabelPin"
+    {
+        "ControlName"                                               "Label"
+        "fieldName"                                                 "bh_BuyBackLabelPin"
+        "xpos"                                                      "cs-0.5"
+        "ypos"                                                      "0"
+        "zpos"                                                      "0"
+        "wide"                                                      "100"
+        "tall"                                                      "0"
+        "visible"                                                   "1"
+        "enabled"                                                   "1"
+        "bgcolor_override"                                          "0 0 0 0"
+    }
+
+    "BuyBackLabel"
+    {
+        "pin_to_sibling"                                            "bh_BuyBackLabelPin"
+        "pin_corner_to_sibling"                                     "PIN_CENTER_TOP"
+        "pin_to_sibling_corner"                                     "PIN_CENTER_TOP"
+        "xpos"                                                      "0"
+        "ypos"                                                      "0"
+        "auto_wide_tocontents"                                      "1"
+        "tall"                                                      "11"
+        "font"                                                      "bh_Font11"
+        "bgcolor_override"                                          "bh_BGAverage"
+    }
 }

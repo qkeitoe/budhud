@@ -4,14 +4,14 @@
 {
     "PlayerStatusHealthValue"
     {
-        "font"                                                      "bh_font10"
+        "font"                                                      "bh_font12"
         "wide"                                                      "20"
         "tall"                                                      "12"
     }
 
     "PlayerStatusHealthValueShadow"
     {
-        "font"                                                      "bh_font10"
+        "font"                                                      "bh_font12"
         "wide"                                                      "20"
         "tall"                                                      "12"
     }
