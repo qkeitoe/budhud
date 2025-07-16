@@ -1,3 +1,5 @@
+"#base"                                                             "mainmenuoverride_preloading.res"
+
 "Resource/UI/MainMenuOverride.res"
 {
     "MainMenuOverride"
