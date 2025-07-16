@@ -2,7 +2,7 @@
 {
     "HudSpectatorExtras"
     {
-        "player_name_font"                                          "bh_Font8"
+        "player_name_font"                                          "bh_Font8Dropshadow"
     }
 
     "CurrencyStatusPanel"
