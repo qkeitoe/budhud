@@ -17,6 +17,7 @@
 
     "InWorldCurrencyPanel"
     {
+        "xpos"                                                      "c75"
         "ypos"                                                      "r6"
     }
 

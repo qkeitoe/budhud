@@ -5,6 +5,11 @@
         "player_name_font"                                          "bh_Font8"
     }
 
+    "CurrencyStatusPanel"
+    {
+        "xpos"                                                      "c-175"
+    }
+
     "CHudAccountPanel"
     {
         "ypos"                                                      "c67"
