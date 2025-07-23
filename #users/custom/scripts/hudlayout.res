@@ -7,7 +7,7 @@
 
     "CurrencyStatusPanel"
     {
-        "xpos"                                                      "c-175"
+        "xpos"                                                      "c-185"
     }
 
     "CHudAccountPanel"
@@ -73,5 +73,10 @@
     {
         "ypos"                                                      "-13"
         "tall"                                                      "493"
+    }
+
+    "PVEWinPanel"
+    {
+        "ypos"                                                      "98"
     }
 }
