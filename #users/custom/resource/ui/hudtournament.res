@@ -67,9 +67,9 @@
 
             "respawntime"
             {
-                "xpos"                                              "26"
+                "xpos"                                              "0"
                 "ypos"                                              "6"
-                "wide"                                              "20"
+                "wide"                                              "24"
                 "tall"                                              "12"
                 "fgcolor"                                           "bh_magenta"
             }
@@ -78,7 +78,7 @@
             {
                 "font"                                              "bh_Font10"
                 "xpos"                                              "0"
-                "ypos"                                              "10w"
+                "ypos"                                              "6"
                 "wide"                                              "24"
                 "tall"                                              "12"
                 "fgcolor"                                           "bh_byellow"
