@@ -63,7 +63,7 @@
                 "ypos"                                              "0"
                 "wide"                                              "20"
                 "tall"                                              "12"
-                "fgcolor"                                           "bh_magenta"
+                "fgcolor"                                           "bh_byellow"
             }
 
             "chargeamount"
@@ -73,7 +73,7 @@
                 "ypos"                                              "0"
                 "wide"                                              "23"
                 "tall"                                              "12"
-                "fgcolor"                                           "bh_byellow"
+                "fgcolor"                                           "bh_bgreen"
             }
 
             "chargeamountBG"
