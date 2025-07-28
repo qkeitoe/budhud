@@ -23,16 +23,17 @@
 
     "CMainTargetID"
     {
-        "ypos"                                                      "c5"
+        "ypos"                                                      "c-5"
     }
 
     "CSecondaryTargetID"
     {
-        "ypos"                                                      "c105"
+        "ypos"                                                      "c90"
     }
 
     "CSpectatorTargetID"
     {
+        "ypos"                                                      "c55"
         "y_offset"                                                  "0"
     }
 
