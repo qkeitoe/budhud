@@ -41,8 +41,6 @@
             "color_portrait_bg_blue_dead"                           "bh_BG200"
             "percentage_health_med"                                 "0.6"
             "percentage_health_low"                                 "0.3"
-            "color_portrait_bg_red_local_player"                    "bh_BG200"
-            "color_portrait_bg_blue_local_player"                   "bh_BG200"
 
             "classimagebg"
             {
@@ -52,23 +50,23 @@
 
             "healthbar"
             {
-                "ypos"                                              "0"
-                "zpos"                                              "3"
-                "tall"                                              "20"
+                "ypos"                                              "17"
+                "zpos"                                              "4"
+                "tall"                                              "4"
                 "bgcolor_override"                                  "bh_Theme_BG30"
             }
 
             "overhealbar"
             {
-                "ypos"                                              "0"
-                "zpos"                                              "4"
-                "tall"                                              "20"
+                "ypos"                                              "17"
+                "zpos"                                              "5"
+                "tall"                                              "4"
             }
 
             "classimage"
             {
                 "ypos"                                              "0"
-                "zpos"                                              "5"
+                "zpos"                                              "3"
             }
 
             "playername"
@@ -76,9 +74,9 @@
                 "fieldName"                                         "playername"
                 "xpos"                                              "0"
                 "ypos"                                              "20"
-                "zpos"                                              "5"
+                "zpos"                                              "3"
                 "wide"                                              "f0"
-                "tall"                                              "7"
+                "tall"                                              "8"
                 "visible"                                           "1"
                 "textinsetx"                                        "1"
                 "labelText"                                         "%playername%"
