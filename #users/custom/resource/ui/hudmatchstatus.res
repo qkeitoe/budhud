@@ -39,10 +39,7 @@
         {
             "color_portrait_bg_red_dead"                            "bh_BG200"
             "color_portrait_bg_blue_dead"                           "bh_BG200"
-            "color_bar_health_high"                                 "84 191 58 255"
-            "color_bar_health_med"                                  "191 183 58 255"
             "percentage_health_med"                                 "0.6"
-            "color_bar_health_low"                                  "191 58 58 255"
             "percentage_health_low"                                 "0.3"
             "color_portrait_bg_red_local_player"                    "bh_BG200"
             "color_portrait_bg_blue_local_player"                   "bh_BG200"
