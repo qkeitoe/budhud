@@ -44,13 +44,13 @@
 
             "classimagebg"
             {
-                "tall"                                              "20"
+                "tall"                                              "19"
                 "zpos"                                              "2"
             }
 
             "healthbar"
             {
-                "ypos"                                              "17"
+                "ypos"                                              "16"
                 "zpos"                                              "4"
                 "tall"                                              "4"
                 "bgcolor_override"                                  "bh_Theme_BG30"
@@ -58,14 +58,14 @@
 
             "overhealbar"
             {
-                "ypos"                                              "17"
+                "ypos"                                              "16"
                 "zpos"                                              "5"
                 "tall"                                              "4"
             }
 
             "classimage"
             {
-                "ypos"                                              "0"
+                "ypos"                                              "-1"
                 "zpos"                                              "3"
             }
 
@@ -73,12 +73,13 @@
             {
                 "fieldName"                                         "playername"
                 "xpos"                                              "0"
-                "ypos"                                              "20"
+                "ypos"                                              "19"
                 "zpos"                                              "3"
                 "wide"                                              "f0"
                 "tall"                                              "8"
                 "visible"                                           "1"
                 "textinsetx"                                        "1"
+                "textinsety"                                        "1"
                 "labelText"                                         "%playername%"
                 "font"                                              "bh_Font6"
                 "textAlignment"                                     "center"
@@ -99,10 +100,10 @@
             {
                 "ypos"                                              "0"
                 "zpos"                                              "6"
-                "font"                                              "bh_Font18DropShadow"
+                "font"                                              "bh_Font16DropShadow"
                 "fgcolor_override"                                  "bh_byellow"
                 "wide"                                              "f0"
-                "tall"                                              "20"
+                "tall"                                              "19"
             }
         }
     }
