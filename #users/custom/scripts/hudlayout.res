@@ -70,6 +70,13 @@
         "LocalBackgroundColor"                                      "bh_BGLighter"
     }
 
+    "HudVoiceStatus"
+    {
+        "show_dead_icon"                                            "0"
+        "text_xpos"                                                 "5"
+        "text_wide"                                                 "90"
+    }
+
     "HudMannVsMachineStatus"
     {
         "ypos"                                                      "-13"

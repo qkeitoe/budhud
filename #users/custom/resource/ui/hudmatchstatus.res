@@ -4,6 +4,23 @@
     {
     }
 
+    "RoundSignModel"
+    {
+        "ypos"                                                      "r-6969"
+        "wide"                                                      "0"
+        "tall"                                                      "0"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+    }
+
+    "RoundCounter"
+    {
+        "Background"
+        {
+            "fillcolor"                                             "bh_BG125"
+        }
+    }
+
     "ObjectiveStatusTimePanel"
     {
         "TimePanelValue"
@@ -14,14 +31,6 @@
             {
                 "bgcolor_override"                                  "bh_BGStandard"
             }
-        }
-    }
-
-    "RoundCounter"
-    {
-        "Background"
-        {
-            "fillcolor"                                             "bh_BG125"
         }
     }
 
@@ -106,5 +115,23 @@
                 "tall"                                              "19"
             }
         }
+    }
+
+    "BlueTeamPanel"
+    {
+        "ypos"                                                      "r-6969"
+        "wide"                                                      "0"
+        "tall"                                                      "0"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
+    }
+
+    "RedTeamPanel"
+    {
+        "ypos"                                                      "r-6969"
+        "wide"                                                      "0"
+        "tall"                                                      "0"
+        "visible"                                                   "0"
+        "enabled"                                                   "0"
     }
 }

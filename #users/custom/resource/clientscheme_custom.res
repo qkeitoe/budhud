@@ -31,7 +31,7 @@
 
     "BaseSettings"
     {
-        "ItemColor"                                                 "255 167 042 255"
+        "ItemColor"                                                 "bh_orange"
     }
 
     "Fonts"
